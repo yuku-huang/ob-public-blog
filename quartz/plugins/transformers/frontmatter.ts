@@ -91,7 +91,7 @@ declare module "vfile" {
         publish: boolean
         draft: boolean
         lang: string
-        enableToc: true
+        enableToc: string
         cssclasses: string[]
       }>
   }
