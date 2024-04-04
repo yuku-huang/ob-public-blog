@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "IG": "https://www.instagram.com/uku.growing_diary/",
-      "精選文章":"",
+      "精選文章":"https://yuku-huang.github.io/ob-public-blog/tags/%F0%9F%94%A5%E7%B2%BE%E9%81%B8",
     },
   }),
 }
