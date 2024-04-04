@@ -14,7 +14,7 @@ tags:
 * 本站使用 Jackyzha0 所開發的[Quartz](https://github.com/jackyzha0/quartz)搭配[Obsidian](https://obsidian.md/)，如果你有興趣且同樣在使用Obsidian，歡迎支持作者。
 * 簡單來說，Quartz 就是將你本地端的 Markdown 語法，轉換成特定格式的 Html ，讓我們可以瀏覽，不過這個軟體更適配 Obsidian 。
 #### 其他參考資料
-* [How to publish your notes for free with Quartz](https://www.youtube.com/watch?v=6s6DT1yN4dw&t=227s))、[How to publish Obsidian notes with Quartz on GitHub Pages](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages)(無編程能力的我花了兩個下午一步步照著做完)
+* [How to publish your notes for free with Quartz](https://www.youtube.com/watch?v=6s6DT1yN4dw&t=227s)、[How to publish Obsidian notes with Quartz on GitHub Pages](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages)(無編程能力的我花了兩個下午一步步照著做完)
 * [Welcome to Quartz 4 (jzhao.xyz)](https://quartz.jzhao.xyz/)
 
 ---
