@@ -9,19 +9,20 @@ tags:
 我會在這裡分享我所感興趣並且學習到的內容，希望對你有所幫助。
 你可以到這裡看到[所有文章](https://yuku-huang.github.io/ob-public-blog/%E6%89%80%E6%9C%89%E6%96%87%E7%AB%A0/)
 
-### 關於本站
+## 關於本站
 
-- 後記-撰寫此站的需要解決的難點
+* 本站使用 Jackyzha0 所開發的[Quartz](https://github.com/jackyzha0/quartz)搭配[Obsidian](https://obsidian.md/)，如果你有興趣且同樣在使用Obsidian，歡迎支持作者。
+* 簡單來說，Quartz 就是將你本地端的 Markdown 語法，轉換成特定格式的 Html ，讓我們可以瀏覽，不過這個軟體更適配 Obsidian 。
+#### 其他參考資料
+* [How to publish your notes for free with Quartz]([How to publish your notes for free with Quartz - YouTube](https://www.youtube.com/watch?v=6s6DT1yN4dw&t=227s))、[How to publish Obsidian notes with Quartz on GitHub Pages](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages)(無編程能力的我花了兩個下午一步步照著做完)
+* [Welcome to Quartz 4 (jzhao.xyz)](https://quartz.jzhao.xyz/)
 
 ---
 
 ### 關於羽空
 
 - 我的原則、價值觀、信念
-    
-
-- 我的願景
-    
+- [[我的願景]]
 
 ---
 
