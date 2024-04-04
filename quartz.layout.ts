@@ -7,8 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "IG": "https://www.instagram.com/uku.growing_diary/",
     },
   }),
 }
@@ -47,3 +46,4 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
