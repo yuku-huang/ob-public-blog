@@ -1,5 +1,4 @@
 # Quartz v4
-我想要測試看看有沒有辦法連接
 
 🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
