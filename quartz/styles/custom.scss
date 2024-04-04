@@ -1,3 +1,10 @@
 @use "./base.scss";
-
+.callout {
+    &[data-callout="custom"] {
+      --color: #customcolor;
+      --border: #custombordercolor;
+      --bg: #custombg;
+      --callout-icon: url("background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' standalone='no'%3F%3E%3C!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 20010904//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'%3E%3Csvg version='1.0' xmlns='http://www.w3.org/2000/svg' width='2000.000000pt' height='1500.000000pt' viewBox='0 0 2000.000000 1500.000000' preserveAspectRatio='xMidYMid meet'%3E%3Cg transform='translate(0.000000,1500.000000) scale(0.100000,-0.100000)'%0Afill='%23000000' stroke='none'%3E%3C/g%3E%3C/svg%3E");"); //SVG icon code
+    }
+  }
 // put your custom CSS here!
