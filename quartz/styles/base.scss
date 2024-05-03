@@ -112,9 +112,9 @@ a {
 
 .page {
   @media all and (max-width: $fullPageWidth) {
-    margin: 0 ;
-    margin-left: auto;//更改左邊外邊框
-    margin-right: 0;
+    margin: 0 auto;//0 auto
+    // margin-left: auto;//更改左邊外邊框
+    // margin-right: ;
     padding: 0 1rem;
     max-width: $pageWidth;
   }
