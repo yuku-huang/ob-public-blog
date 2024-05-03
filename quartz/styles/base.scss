@@ -112,7 +112,8 @@ a {
 
 .page {
   @media all and (max-width: $fullPageWidth) {
-    margin: 0 auto;
+    margin: 0 ;
+    margin-left: auto;//更改左邊外邊框
     padding: 0 1rem;
     max-width: $pageWidth;
   }
@@ -173,10 +174,10 @@ a {
 
     & .sidebar.left {
       left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
-      // @media all and (max-width: $fullPageWidth) {
-      //   gap: 0;
-      //   align-items: center;
-      // }
+      @media all and (max-width: $fullPageWidth) {
+        gap: 0;
+        align-items: center;
+      }
     }
 
     // & .sidebar.right {
