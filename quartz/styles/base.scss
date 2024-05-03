@@ -161,8 +161,8 @@ a {
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
-      position: fixed;
-      // position: sticky;
+      // position: fixed;
+      position: sticky;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
         flex-direction: row;
