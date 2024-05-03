@@ -181,14 +181,14 @@ a {
     }
 
     & .sidebar.right {
-      // right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
-      right:50px;
+      right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      // right:50px;
       // width: 50px;
       padding: 0 0;
       // right: 50px;
       flex-wrap: wrap;
       flex: 1;
-      min-width: 50px;//140px
+      // min-width: 50px;//140px
     //   & > * {
     //     @media all and (max-width: $fullPageWidth) {
     //       flex: 1;
