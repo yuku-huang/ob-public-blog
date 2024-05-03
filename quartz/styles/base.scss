@@ -157,9 +157,8 @@ a {
       // flex-direction: row; /* 修改這裡 */
       gap: 2rem;//2rem
       top: 0;
-      width: $sidePanelWidth;
       padding: 0 4rem;
-      // width: $sidePanelWidth;
+      width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
       position: fixed;
