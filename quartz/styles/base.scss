@@ -112,9 +112,7 @@ a {
 
 .page {
   @media all and (max-width: $fullPageWidth) {
-    margin: 0 ;//0 auto
-    margin-left: auto;
-    margin-right: 50px;
+    margin: 0 auto;//0 auto
     padding: 0 1rem;
     max-width: $pageWidth;
   }
@@ -163,7 +161,8 @@ a {
       margin-top: $topSpacing;
       box-sizing: border-box;
       padding: 0 4rem;
-      position: fixed;
+      // position: fixed;
+      position: sticky;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
         flex-direction: row;
@@ -182,8 +181,8 @@ a {
     }
 
     & .sidebar.right {
-      //right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
-      right: 50px;
+      right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      // right: 50px;
       flex-wrap: wrap;
       & > * {
         @media all and (max-width: $fullPageWidth) {
