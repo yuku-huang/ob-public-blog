@@ -157,7 +157,8 @@ a {
       // flex-direction: row; /* 修改這裡 */
       gap: 0.5rem;//2rem
       top: 0;
-      // width: 50px;
+      width: 50px;
+      padding: 0 4rem;
       // width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
@@ -173,28 +174,27 @@ a {
     }
 
     & .sidebar.left {
-      left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       width: $sidePanelWidth;
-      padding: 0 4rem;
+      left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
       }
     }
 
-    & .sidebar.right {
-      right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
-      width: 50px;
-      padding: 0 0;
-      // right: 50px;
-      flex-wrap: wrap;
-      & > * {
-        @media all and (max-width: $fullPageWidth) {
-          flex: 1;
-          min-width: 140px;//140px
-        }
-      }
-    }
+    // & .sidebar.right {
+    //   right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+    //   width: 50px;
+    //   padding: 0 0;
+    //   // right: 50px;
+    //   flex-wrap: wrap;
+    //   & > * {
+    //     @media all and (max-width: $fullPageWidth) {
+    //       flex: 1;
+    //       min-width: 140px;//140px
+    //     }
+    //   }
+    // }
   }
 
   & .page-header {
