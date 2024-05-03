@@ -187,12 +187,14 @@ a {
       padding: 0 0;
       // right: 50px;
       flex-wrap: wrap;
-      & > * {
-        @media all and (max-width: $fullPageWidth) {
-          flex: 1;
-          min-width: 140px;//140px
-        }
-      }
+      flex: 1;
+      min-width: 100px;//140px
+    //   & > * {
+    //     @media all and (max-width: $fullPageWidth) {
+    //       flex: 1;
+    //       min-width: 140px;//140px
+    //     }
+    //   }
     }
   }
 
