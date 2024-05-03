@@ -157,12 +157,12 @@ a {
       // flex-direction: row; /* 修改這裡 */
       gap: 0.5rem;//2rem
       top: 0;
+      // width: 50px;
       // width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
-      padding: 0 4rem;
-      // position: fixed;
-      position: sticky;
+      position: fixed;
+      // position: sticky;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
         flex-direction: row;
@@ -175,6 +175,7 @@ a {
     & .sidebar.left {
       left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       width: $sidePanelWidth;
+      padding: 0 4rem;
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
@@ -184,6 +185,7 @@ a {
     & .sidebar.right {
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       width: 50px;
+      padding: 0 0;
       // right: 50px;
       flex-wrap: wrap;
       & > * {
