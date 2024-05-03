@@ -180,12 +180,13 @@ a {
     }
 
     & .sidebar.right {
-      right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      //right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      right: 10px;
       flex-wrap: wrap;
       & > * {
         @media all and (max-width: $fullPageWidth) {
           flex: 1;
-          min-width: 20px;//140px
+          min-width: 140px;//140px
         }
       }
     }
