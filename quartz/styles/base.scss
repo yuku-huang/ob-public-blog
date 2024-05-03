@@ -181,19 +181,19 @@ a {
       }
     }
 
-    // & .sidebar.right {
-    //   right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
-    //   width: 50px;
-    //   padding: 0 0;
-    //   // right: 50px;
-    //   flex-wrap: wrap;
-    //   & > * {
-    //     @media all and (max-width: $fullPageWidth) {
-    //       flex: 1;
-    //       min-width: 140px;//140px
-    //     }
-    //   }
-    // }
+    & .sidebar.right {
+      right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      width: 50px;
+      padding: 0 0;
+      // right: 50px;
+      flex-wrap: wrap;
+      & > * {
+        @media all and (max-width: $fullPageWidth) {
+          flex: 1;
+          min-width: 140px;//140px
+        }
+      }
+    }
   }
 
   & .page-header {
