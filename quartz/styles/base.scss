@@ -207,13 +207,13 @@ a {
       box-sizing: border-box;
       padding: 0 4rem;
       position: fixed;
-      @media all and (max-width: $fullPageWidth) {
-        position: initial;
-        flex-direction: row;
-        padding: 0;
-        width: initial;
-        margin-top: 2rem;
-      }
+      // @media all and (max-width: $fullPageWidth) {
+      //   position: initial;
+      //   flex-direction: row;
+      //   padding: 0;
+      //   width: initial;
+      //   margin-top: 2rem;
+      // }
     }
 
     & .sidebar.left {
@@ -225,14 +225,19 @@ a {
     }
 
     & .sidebar.right {
-      right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
-      flex-wrap: wrap;
-      & > * {
-        @media all and (max-width: $fullPageWidth) {
-          flex: 1;
-          min-width: 140px;
-        }
-      }
+      position: initial;
+        flex-direction: row;
+        padding: 0;
+        width: initial;
+        margin-top: 2rem;
+      // right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      // flex-wrap: wrap;
+      // & > * {
+      //   @media all and (max-width: $fullPageWidth) {
+      //     flex: 1;
+      //     min-width: 140px;
+      //   }
+      // }
     }
   }
 
