@@ -234,7 +234,7 @@ a {
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       flex-wrap: wrap;
       & > * {
-        @media all and (max-width: 2000px) {
+        @media all and (max-width: $fullPageWidth) {
           flex: 1;
           min-width: 140px;
         }
@@ -256,7 +256,7 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;
-    @media all and (max-width: $fullPageWidth) {
+    @media all and (max-width: 2000px) {
       width: initial;
       margin-left: 0;
       margin-right: 0;
