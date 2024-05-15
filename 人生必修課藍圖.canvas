@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"928a3772effe3690","type":"text","text":"搞錢","x":100,"y":-182,"width":250,"height":57},
+		{"id":"b68d93f52ca6d3ce","type":"text","text":"健康","x":380,"y":-182,"width":250,"height":57},
+		{"id":"2702d6281bf981ef","x":-680,"y":-60,"width":250,"height":60,"type":"text","text":"玩心"},
+		{"id":"2fc6679d84ed0bd3","x":-500,"y":280,"width":250,"height":50,"type":"text","text":"平靜"},
+		{"id":"3ac52ccd5ff71910","x":-680,"y":60,"width":250,"height":50,"type":"text","text":"快樂與幸福"},
+		{"id":"da6d8021164fd2db","type":"text","text":"情緒","x":-500,"y":-242,"width":250,"height":60,"color":"1"},
+		{"id":"e6c5210503f7e791","x":-239,"y":-46,"width":250,"height":60,"color":"2","type":"text","text":"人際與愛情"},
+		{"id":"ac1cbe95fe1412fe","x":-287,"y":63,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"d6e0d433342e7c41","fromNode":"da6d8021164fd2db","fromSide":"bottom","toNode":"2702d6281bf981ef","toSide":"top"},
+		{"id":"e5406698f2538c98","fromNode":"da6d8021164fd2db","fromSide":"bottom","toNode":"2fc6679d84ed0bd3","toSide":"top"},
+		{"id":"16d9aefcd8067da4","fromNode":"2702d6281bf981ef","fromSide":"bottom","toNode":"3ac52ccd5ff71910","toSide":"top"},
+		{"id":"8ef612e516818b97","fromNode":"3ac52ccd5ff71910","fromSide":"bottom","toNode":"2fc6679d84ed0bd3","toSide":"top"}
+	]
+}
