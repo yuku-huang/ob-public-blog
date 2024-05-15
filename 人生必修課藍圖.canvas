@@ -1,18 +1,24 @@
 {
 	"nodes":[
+		{"id":"5addcbe2f64d1e5f","x":-320,"y":0,"width":585,"height":100,"color":"2","type":"group","label":"人際與愛情"},
 		{"id":"928a3772effe3690","type":"text","text":"搞錢","x":100,"y":-182,"width":250,"height":57},
 		{"id":"b68d93f52ca6d3ce","type":"text","text":"健康","x":380,"y":-182,"width":250,"height":57},
-		{"id":"2702d6281bf981ef","x":-680,"y":-60,"width":250,"height":60,"type":"text","text":"玩心"},
-		{"id":"2fc6679d84ed0bd3","x":-500,"y":280,"width":250,"height":50,"type":"text","text":"平靜"},
-		{"id":"3ac52ccd5ff71910","x":-680,"y":60,"width":250,"height":50,"type":"text","text":"快樂與幸福"},
 		{"id":"da6d8021164fd2db","type":"text","text":"情緒","x":-500,"y":-242,"width":250,"height":60,"color":"1"},
-		{"id":"e6c5210503f7e791","x":-239,"y":-46,"width":250,"height":60,"color":"2","type":"text","text":"人際與愛情"},
-		{"id":"ac1cbe95fe1412fe","x":-287,"y":63,"width":250,"height":60,"type":"text","text":""}
+		{"id":"2fc6679d84ed0bd3","type":"text","text":"平靜","x":-500,"y":560,"width":250,"height":50},
+		{"id":"2702d6281bf981ef","type":"text","text":"玩心","x":-680,"y":45,"width":250,"height":60},
+		{"id":"3ac52ccd5ff71910","type":"text","text":"快樂與幸福","x":-680,"y":165,"width":250,"height":50},
+		{"id":"4ddb9ab014e95838","x":-1156,"y":59,"width":250,"height":60,"type":"text","text":"歷史的定位"},
+		{"id":"8d92628ab8617b5e","x":-1060,"y":165,"width":250,"height":60,"type":"text","text":"生命的渺小"},
+		{"id":"ae216807a9c7ff27","x":-1031,"y":340,"width":151,"height":60,"type":"text","text":"直面死亡"},
+		{"id":"f71b3594715dedba","type":"text","text":"成熟人際觀","x":-300,"y":20,"width":250,"height":60},
+		{"id":"ac1cbe95fe1412fe","type":"text","text":"成熟愛情觀","x":-5,"y":20,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"d6e0d433342e7c41","fromNode":"da6d8021164fd2db","fromSide":"bottom","toNode":"2702d6281bf981ef","toSide":"top"},
 		{"id":"e5406698f2538c98","fromNode":"da6d8021164fd2db","fromSide":"bottom","toNode":"2fc6679d84ed0bd3","toSide":"top"},
 		{"id":"16d9aefcd8067da4","fromNode":"2702d6281bf981ef","fromSide":"bottom","toNode":"3ac52ccd5ff71910","toSide":"top"},
-		{"id":"8ef612e516818b97","fromNode":"3ac52ccd5ff71910","fromSide":"bottom","toNode":"2fc6679d84ed0bd3","toSide":"top"}
+		{"id":"8ef612e516818b97","fromNode":"3ac52ccd5ff71910","fromSide":"bottom","toNode":"2fc6679d84ed0bd3","toSide":"top"},
+		{"id":"a9c6436fbeca58ea","fromNode":"f71b3594715dedba","fromSide":"right","toNode":"ac1cbe95fe1412fe","toSide":"left","fromEnd":"arrow"},
+		{"id":"93189d9eafd6a4df","fromNode":"da6d8021164fd2db","fromSide":"bottom","toNode":"5addcbe2f64d1e5f","toSide":"top","color":"2"}
 	]
 }
