@@ -32,9 +32,9 @@
 		{"id":"a39e8bc4fc61ba4e","type":"text","text":"# 學習、成長與智慧","x":276,"y":-600,"width":348,"height":60},
 		{"id":"a5c188d278b53d7c","x":325,"y":-480,"width":250,"height":60,"type":"text","text":"勇於挑戰，開創新項目"},
 		{"id":"94c643eea2b3113a","x":1795,"y":-80,"width":250,"height":60,"type":"text","text":"培養習慣"},
-		{"id":"5255648b34c5135d","x":2080,"y":-80,"width":250,"height":60,"type":"text","text":"自律"},
-		{"id":"295d0626b4d158b7","x":2080,"y":157,"width":250,"height":60,"type":"text","text":"休息"},
-		{"id":"cc16c4d3ead3aba6","x":2257,"y":37,"width":250,"height":60,"type":"text","text":"身體效率"}
+		{"id":"5255648b34c5135d","x":1993,"y":40,"width":250,"height":60,"type":"text","text":"自律"},
+		{"id":"295d0626b4d158b7","x":1993,"y":277,"width":250,"height":60,"type":"text","text":"休息"},
+		{"id":"cc16c4d3ead3aba6","x":2170,"y":157,"width":250,"height":60,"type":"text","text":"身體效率"}
 	],
 	"edges":[
 		{"id":"d6e0d433342e7c41","fromNode":"da6d8021164fd2db","fromSide":"bottom","toNode":"2702d6281bf981ef","toSide":"top","label":"心態"},
