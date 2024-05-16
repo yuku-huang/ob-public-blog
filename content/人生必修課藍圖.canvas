@@ -30,9 +30,8 @@
 		{"id":"f080d207f6471a4f","type":"text","text":"簡報","x":605,"y":585,"width":250,"height":60},
 		{"id":"598cdd1181c62fe6","type":"text","text":"演說","x":730,"y":425,"width":250,"height":60},
 		{"id":"f07c6d6119272787","type":"text","text":"說服","x":890,"y":585,"width":250,"height":60},
-		{"id":"aa3148533c67f100","type":"text","text":"整合知識","x":286,"y":-392,"width":250,"height":60},
+		{"id":"aa3148533c67f100","type":"text","text":"整合知識(知識管理)","x":286,"y":-392,"width":250,"height":60},
 		{"id":"bcb63da310b003ff","type":"text","text":"教學","x":36,"y":-80,"width":242,"height":50},
-		{"id":"5b757ff2bbd09d76","type":"text","text":"閱讀","x":270,"y":-580,"width":108,"height":60},
 		{"id":"03eea8a090db71d3","type":"text","text":"筆記","x":460,"y":-580,"width":111,"height":60},
 		{"id":"ef0120f9a1cea8e2","type":"text","text":"準時完成任務的職業心態","x":1184,"y":276,"width":250,"height":60},
 		{"id":"bf96f16e0fadfc67","type":"text","text":"復盤工作流","x":1184,"y":456,"width":250,"height":60},
@@ -44,7 +43,8 @@
 		{"id":"a5c188d278b53d7c","type":"text","text":"勇於挑戰，開創新項目","x":-460,"y":-480,"width":250,"height":60},
 		{"id":"41396dd4e99becc8","type":"text","text":"學習復盤","x":-460,"y":-370,"width":250,"height":60},
 		{"id":"9194e9b7d74540cf","type":"text","text":"快速掌握新技能","x":-460,"y":-240,"width":250,"height":50},
-		{"id":"a39e8bc4fc61ba4e","type":"text","text":"# 學習、成長與智慧","x":-257,"y":-680,"width":348,"height":50,"color":"1"}
+		{"id":"a39e8bc4fc61ba4e","type":"text","text":"# 學習、成長與智慧","x":-257,"y":-680,"width":348,"height":50,"color":"1"},
+		{"id":"5b757ff2bbd09d76","type":"text","text":"閱讀","x":270,"y":-580,"width":108,"height":60}
 	],
 	"edges":[
 		{"id":"d6e0d433342e7c41","fromNode":"da6d8021164fd2db","fromSide":"bottom","toNode":"2702d6281bf981ef","toSide":"top","label":"心態"},
