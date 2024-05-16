@@ -43,8 +43,8 @@
 		{"id":"cc16c4d3ead3aba6","type":"text","text":"身體效率","x":1611,"y":32,"width":250,"height":60},
 		{"id":"11a674d525298a35","type":"text","text":"自信","x":-190,"y":525,"width":250,"height":60},
 		{"id":"fd449a1d3c21fdc2","type":"text","text":"夢想","x":-190,"y":635,"width":250,"height":50},
-		{"id":"aaa0ae4e562a5ef2","type":"text","text":"深度體驗、感受的能力","x":-1244,"y":460,"width":250,"height":60},
-		{"id":"2fc6679d84ed0bd3","type":"text","text":"平靜","x":-840,"y":585,"width":250,"height":50}
+		{"id":"aaa0ae4e562a5ef2","type":"text","text":"深度體驗、感受的能力","x":-1015,"y":400,"width":250,"height":60},
+		{"id":"2fc6679d84ed0bd3","type":"text","text":"平靜(合一)","x":-860,"y":585,"width":250,"height":50}
 	],
 	"edges":[
 		{"id":"d6e0d433342e7c41","fromNode":"da6d8021164fd2db","fromSide":"bottom","toNode":"2702d6281bf981ef","toSide":"top","label":"心態"},
