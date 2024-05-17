@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"116d1f86d820e797","x":-199,"y":-234,"width":250,"height":60,"type":"text","text":"很簡單就沒有做的必要"},
+		{"id":"70bf8a1f2a889d2d","x":100,"y":-234,"width":250,"height":60,"type":"text","text":"有好方法早就廣為人知"},
+		{"id":"f3713413254ec944","x":-60,"y":-440,"width":250,"height":60,"type":"text","text":"No Pain No Gain"},
+		{"id":"cd446edd01b888fc","x":-135,"y":-77,"width":250,"height":60,"type":"text","text":"打怪升級的過程"}
+	],
+	"edges":[
+		{"id":"818e98403f998795","fromNode":"f3713413254ec944","fromSide":"bottom","toNode":"116d1f86d820e797","toSide":"top"},
+		{"id":"27f04045277beb2a","fromNode":"f3713413254ec944","fromSide":"bottom","toNode":"70bf8a1f2a889d2d","toSide":"top"}
+	]
+}
