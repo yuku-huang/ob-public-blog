@@ -2,5 +2,6 @@
 title: <% tp.file.title %>
 date: 
 draft: true
-tags:
+tags: 
+文章目的:
 ---
