@@ -3,10 +3,24 @@
 		{"id":"116d1f86d820e797","x":-199,"y":-234,"width":250,"height":60,"type":"text","text":"很簡單就沒有做的必要"},
 		{"id":"70bf8a1f2a889d2d","x":100,"y":-234,"width":250,"height":60,"type":"text","text":"有好方法早就廣為人知"},
 		{"id":"f3713413254ec944","x":-60,"y":-440,"width":250,"height":60,"type":"text","text":"No Pain No Gain"},
-		{"id":"cd446edd01b888fc","x":-135,"y":-77,"width":250,"height":60,"type":"text","text":"打怪升級的過程"}
+		{"id":"9205ecf5b567a015","x":-340,"y":-67,"width":250,"height":60,"type":"text","text":"好多例子"},
+		{"id":"fa8c49cf65bfb7f6","x":0,"y":240,"width":250,"height":60,"type":"text","text":"接受學習的困難，勇往直前、請你盡興"},
+		{"id":"82ebb3231e8ca9fa","x":-250,"y":50,"width":250,"height":60,"type":"text","text":"苦盡甘來"},
+		{"id":"c88243117489665a","x":68,"y":78,"width":250,"height":60,"type":"text","text":"行動就對了"},
+		{"id":"cd446edd01b888fc","x":405,"y":-234,"width":250,"height":60,"type":"text","text":"打怪升級的過程"},
+		{"id":"3e717a32aaed510e","x":250,"y":-87,"width":250,"height":50,"type":"text","text":"避開想要無痛學習的心態"},
+		{"id":"fe29eba226010479","x":460,"y":-7,"width":250,"height":60,"type":"text","text":"掌握基礎"},
+		{"id":"b9b40dd8e006cd21","x":318,"y":320,"width":250,"height":60,"type":"text","text":"休息"}
 	],
 	"edges":[
 		{"id":"818e98403f998795","fromNode":"f3713413254ec944","fromSide":"bottom","toNode":"116d1f86d820e797","toSide":"top"},
-		{"id":"27f04045277beb2a","fromNode":"f3713413254ec944","fromSide":"bottom","toNode":"70bf8a1f2a889d2d","toSide":"top"}
+		{"id":"27f04045277beb2a","fromNode":"f3713413254ec944","fromSide":"bottom","toNode":"70bf8a1f2a889d2d","toSide":"top"},
+		{"id":"311c1e5e46664cc7","fromNode":"116d1f86d820e797","fromSide":"bottom","toNode":"9205ecf5b567a015","toSide":"top"},
+		{"id":"61d53a2340decb2d","fromNode":"9205ecf5b567a015","fromSide":"bottom","toNode":"82ebb3231e8ca9fa","toSide":"top"},
+		{"id":"3cad8c333c957875","fromNode":"82ebb3231e8ca9fa","fromSide":"bottom","toNode":"fa8c49cf65bfb7f6","toSide":"top"},
+		{"id":"c363d32185e37b7a","fromNode":"fa8c49cf65bfb7f6","fromSide":"right","toNode":"b9b40dd8e006cd21","toSide":"top"},
+		{"id":"50262f029b89b722","fromNode":"cd446edd01b888fc","fromSide":"bottom","toNode":"c88243117489665a","toSide":"top"},
+		{"id":"2bdc6b15194a1031","fromNode":"c88243117489665a","fromSide":"bottom","toNode":"fa8c49cf65bfb7f6","toSide":"top"},
+		{"id":"27b11467d6aeca02","fromNode":"f3713413254ec944","fromSide":"bottom","toNode":"cd446edd01b888fc","toSide":"top"}
 	]
 }
