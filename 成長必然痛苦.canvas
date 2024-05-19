@@ -11,7 +11,7 @@
 		{"id":"3e717a32aaed510e","type":"text","text":"避開想要無痛學習的心態","x":250,"y":-87,"width":250,"height":50},
 		{"id":"fe29eba226010479","type":"text","text":"掌握基礎","x":460,"y":-7,"width":250,"height":60},
 		{"id":"b9b40dd8e006cd21","type":"text","text":"休息","x":318,"y":320,"width":250,"height":60},
-		{"id":"dbb270c161802b13","x":-623,"y":48,"width":250,"height":60,"type":"text","text":"人生總不是那樣地"}
+		{"id":"dbb270c161802b13","x":-623,"y":48,"width":250,"height":60,"type":"text","text":"人生總不是那樣地熱血激昂"}
 	],
 	"edges":[
 		{"id":"818e98403f998795","fromNode":"f3713413254ec944","fromSide":"bottom","toNode":"116d1f86d820e797","toSide":"top"},
