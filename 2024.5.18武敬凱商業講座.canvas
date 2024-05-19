@@ -1,11 +1,18 @@
 {
 	"nodes":[
-		{"id":"20b7c6a81bf3a6c3","type":"text","text":"","x":60,"y":-902,"width":250,"height":60},
-		{"id":"19b76149cc3c5372","type":"text","text":"行銷的力量","x":360,"y":-902,"width":250,"height":60},
-		{"id":"a823fb3327b8a721","type":"text","text":"開公司的流程","x":18,"y":-1198,"width":250,"height":60},
-		{"id":"1691cce6a0e52c0b","type":"text","text":"創業的底層邏輯在於有機會獲得更好的生活","x":-200,"y":-1000,"width":250,"height":60}
+		{"id":"acd16c797b1074e6","x":-127,"y":-990,"width":592,"height":370,"type":"group","label":"商業模型"},
+		{"id":"20b7c6a81bf3a6c3","type":"text","text":"追求指數成長","x":-107,"y":-842,"width":250,"height":60},
+		{"id":"19b76149cc3c5372","type":"text","text":"行銷的力量","x":195,"y":-842,"width":250,"height":60},
+		{"id":"91539dd2df8b0f01","x":143,"y":-700,"width":250,"height":60,"type":"text","text":"細節決定成敗"},
+		{"id":"1691cce6a0e52c0b","type":"text","text":"創業的底層邏輯在於有機會獲得更好的生活","x":-420,"y":-1050,"width":250,"height":60},
+		{"id":"a823fb3327b8a721","type":"text","text":"開公司的流程","x":-420,"y":-1253,"width":250,"height":60},
+		{"id":"2f6050dd470e681d","type":"text","text":"5.18 商業講座課程","x":-437,"y":-1460,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"c9e21fdc59961780","fromNode":"a823fb3327b8a721","fromSide":"bottom","toNode":"1691cce6a0e52c0b","toSide":"top","label":"why need"}
+		{"id":"c9e21fdc59961780","fromNode":"a823fb3327b8a721","fromSide":"bottom","toNode":"1691cce6a0e52c0b","toSide":"top","label":"why we need"},
+		{"id":"da0ec64e685aaa88","fromNode":"2f6050dd470e681d","fromSide":"bottom","toNode":"a823fb3327b8a721","toSide":"top","label":"理解開公司的黑箱，\n讓我們比較不恐懼"},
+		{"id":"9c1583f84c2fbf16","fromNode":"1691cce6a0e52c0b","fromSide":"bottom","toNode":"20b7c6a81bf3a6c3","toSide":"top"},
+		{"id":"0212f40394edd04b","fromNode":"20b7c6a81bf3a6c3","fromSide":"bottom","toNode":"19b76149cc3c5372","toSide":"bottom","color":"3"},
+		{"id":"4f4cabfa8d9d39cb","fromNode":"19b76149cc3c5372","fromSide":"top","toNode":"20b7c6a81bf3a6c3","toSide":"top","color":"2"}
 	]
 }
