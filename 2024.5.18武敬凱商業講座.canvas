@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"1691cce6a0e52c0b","x":-272,"y":-902,"width":250,"height":60,"type":"text","text":"創業的底層邏輯在於有機會獲得更好的生活"},
-		{"id":"20b7c6a81bf3a6c3","x":60,"y":-902,"width":250,"height":60,"type":"text","text":""},
-		{"id":"19b76149cc3c5372","x":360,"y":-902,"width":250,"height":60,"type":"text","text":"行銷的力量"},
-		{"id":"a823fb3327b8a721","x":18,"y":-1198,"width":250,"height":60,"type":"text","text":"開公司的流程"}
+		{"id":"20b7c6a81bf3a6c3","type":"text","text":"","x":60,"y":-902,"width":250,"height":60},
+		{"id":"19b76149cc3c5372","type":"text","text":"行銷的力量","x":360,"y":-902,"width":250,"height":60},
+		{"id":"a823fb3327b8a721","type":"text","text":"開公司的流程","x":18,"y":-1198,"width":250,"height":60},
+		{"id":"1691cce6a0e52c0b","type":"text","text":"創業的底層邏輯在於有機會獲得更好的生活","x":-200,"y":-1000,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c9e21fdc59961780","fromNode":"a823fb3327b8a721","fromSide":"bottom","toNode":"1691cce6a0e52c0b","toSide":"top","label":"why need"}
+	]
 }
