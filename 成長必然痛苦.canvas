@@ -5,13 +5,13 @@
 		{"id":"f3713413254ec944","type":"text","text":"No Pain No Gain","x":-60,"y":-440,"width":250,"height":60},
 		{"id":"9205ecf5b567a015","type":"text","text":"好多例子","x":-340,"y":-67,"width":250,"height":60},
 		{"id":"fa8c49cf65bfb7f6","type":"text","text":"接受學習的困難，勇往直前、請你盡興","x":0,"y":240,"width":250,"height":60},
-		{"id":"c88243117489665a","type":"text","text":"行動就對了","x":68,"y":78,"width":250,"height":60},
 		{"id":"cd446edd01b888fc","type":"text","text":"打怪升級的過程","x":405,"y":-234,"width":250,"height":60},
-		{"id":"3e717a32aaed510e","type":"text","text":"避開想要無痛學習的心態","x":250,"y":-87,"width":250,"height":50},
 		{"id":"fe29eba226010479","type":"text","text":"掌握基礎","x":460,"y":-7,"width":250,"height":60},
 		{"id":"b9b40dd8e006cd21","type":"text","text":"休息","x":318,"y":320,"width":250,"height":60},
 		{"id":"dbb270c161802b13","type":"text","text":"人生總不是那樣地熱血激昂","x":-623,"y":48,"width":250,"height":60},
-		{"id":"82ebb3231e8ca9fa","type":"text","text":"苦盡甘來","x":-250,"y":78,"width":250,"height":60}
+		{"id":"82ebb3231e8ca9fa","type":"text","text":"苦盡甘來","x":-250,"y":78,"width":250,"height":60},
+		{"id":"3e717a32aaed510e","type":"text","text":"避開想要無痛學習的心態","x":280,"y":-117,"width":250,"height":50},
+		{"id":"c88243117489665a","type":"text","text":"行動就對了","x":51,"y":-67,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"818e98403f998795","fromNode":"f3713413254ec944","fromSide":"bottom","toNode":"116d1f86d820e797","toSide":"top"},
@@ -21,7 +21,7 @@
 		{"id":"3cad8c333c957875","fromNode":"82ebb3231e8ca9fa","fromSide":"bottom","toNode":"fa8c49cf65bfb7f6","toSide":"top"},
 		{"id":"c363d32185e37b7a","fromNode":"fa8c49cf65bfb7f6","fromSide":"right","toNode":"b9b40dd8e006cd21","toSide":"top"},
 		{"id":"50262f029b89b722","fromNode":"cd446edd01b888fc","fromSide":"bottom","toNode":"c88243117489665a","toSide":"top"},
-		{"id":"2bdc6b15194a1031","fromNode":"c88243117489665a","fromSide":"bottom","toNode":"fa8c49cf65bfb7f6","toSide":"top"},
-		{"id":"27b11467d6aeca02","fromNode":"f3713413254ec944","fromSide":"bottom","toNode":"cd446edd01b888fc","toSide":"top"}
+		{"id":"27b11467d6aeca02","fromNode":"f3713413254ec944","fromSide":"bottom","toNode":"cd446edd01b888fc","toSide":"top"},
+		{"id":"68928afb82a44c3e","fromNode":"c88243117489665a","fromSide":"bottom","toNode":"82ebb3231e8ca9fa","toSide":"top"}
 	]
 }
