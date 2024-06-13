@@ -14,8 +14,10 @@
 		{"id":"df04c3bec9a8b716","type":"text","text":"幻想有一個近乎完美的工具,可以幫我時線實現所有問題","x":-2130,"y":160,"width":250,"height":87},
 		{"id":"77890963b79957c8","x":-1860,"y":187,"width":250,"height":60,"type":"text","text":"如同捷徑一般的猜想，不可能存在"},
 		{"id":"3569a685f6caa188","type":"text","text":"柏拉圖式的幻想","x":-1785,"y":0,"width":250,"height":60},
-		{"id":"56974565c2653d15","x":-1760,"y":563,"width":250,"height":143,"type":"text","text":"幫助個人提高問題解決、決策、能力和創新進而去蒐集、累積、儲存知識的過程"},
-		{"id":"24a67d75d577d6f3","x":-1700,"y":410,"width":250,"height":60,"type":"text","text":"知識管理(Knowledge Management)的定義"}
+		{"id":"24a67d75d577d6f3","x":-1700,"y":410,"width":250,"height":60,"type":"text","text":"知識管理(Knowledge Management)的定義"},
+		{"id":"56974565c2653d15","x":-2020,"y":604,"width":250,"height":143,"type":"text","text":"幫助個人提高問題解決、決策、能力和創新進而去蒐集、累積、儲存知識的過程"},
+		{"id":"58b83c4ed3412dea","x":-1700,"y":634,"width":250,"height":60,"type":"text","text":""},
+		{"id":"7dbb30c1302775a2","x":-2061,"y":520,"width":291,"height":174,"type":"text","text":"在学术界，“知识管理（Knowledge Management）”主要指以企业和组织为单位的知识 生产与管理，其目标是最大化企业的无形资产"}
 	],
 	"edges":[
 		{"id":"48a4b874221e4c89","fromNode":"f0480edc7b3bd083","fromSide":"bottom","toNode":"ffa60382d4f16d0d","toSide":"top"},
