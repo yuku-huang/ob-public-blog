@@ -15,9 +15,9 @@
 		{"id":"77890963b79957c8","x":-1860,"y":187,"width":250,"height":60,"type":"text","text":"如同捷徑一般的猜想，不可能存在"},
 		{"id":"3569a685f6caa188","type":"text","text":"柏拉圖式的幻想","x":-1785,"y":0,"width":250,"height":60},
 		{"id":"24a67d75d577d6f3","x":-1700,"y":410,"width":250,"height":60,"type":"text","text":"知識管理(Knowledge Management)的定義"},
-		{"id":"56974565c2653d15","x":-2020,"y":604,"width":250,"height":143,"type":"text","text":"幫助個人提高問題解決、決策、能力和創新進而去蒐集、累積、儲存知識的過程"},
 		{"id":"58b83c4ed3412dea","x":-1700,"y":634,"width":250,"height":60,"type":"text","text":""},
-		{"id":"7dbb30c1302775a2","x":-2061,"y":520,"width":291,"height":174,"type":"text","text":"在学术界，“知识管理（Knowledge Management）”主要指以企业和组织为单位的知识 生产与管理，其目标是最大化企业的无形资产"}
+		{"id":"7dbb30c1302775a2","x":-2165,"y":547,"width":291,"height":174,"type":"text","text":"在学术界，“知识管理（Knowledge Management）”主要指以企业和组织为单位的知识 生产与管理，其目标是最大化企业的无形资产"},
+		{"id":"56974565c2653d15","x":-1900,"y":721,"width":250,"height":143,"type":"text","text":"幫助個人提高問題解決、決策、能力和創新進而去蒐集、累積、儲存知識的過程\n\n“个人知识管 理”，学者将其定义为“个人为了提高问题解决、决策、能力和创新而获取、创建、共享 和存储知识的过程”。这"}
 	],
 	"edges":[
 		{"id":"48a4b874221e4c89","fromNode":"f0480edc7b3bd083","fromSide":"bottom","toNode":"ffa60382d4f16d0d","toSide":"top"},
