@@ -1,18 +1,21 @@
 {
 	"nodes":[
-		{"id":"f0480edc7b3bd083","x":20,"y":-100,"width":250,"height":60,"type":"text","text":"知識管理的那回事"},
-		{"id":"e6c1c91e0238d32f","x":20,"y":146,"width":250,"height":50,"type":"text","text":"知識管理的方法"},
-		{"id":"acc1913c9e9c2bcf","x":460,"y":116,"width":250,"height":60,"type":"text","text":"克服資訊焦慮與資訊爆炸"},
-		{"id":"b5e7e223b60b7356","x":-230,"y":400,"width":250,"height":60,"type":"text","text":"軟體"},
-		{"id":"ffa60382d4f16d0d","x":-560,"y":146,"width":240,"height":50,"type":"text","text":"知識管理的核心"},
-		{"id":"f0eede5252fbe04e","x":40,"y":400,"width":250,"height":60,"type":"text","text":"步驟"},
-		{"id":"5d448749f479ab35","x":335,"y":320,"width":250,"height":60,"type":"text","text":"學習的本質"},
-		{"id":"01ea32cdbdede23f","x":-1560,"y":654,"width":324,"height":60,"type":"text","text":"能夠有效地整理\"有用\"的知識(可以被個體快速解析的，即plus筆記)"},
-		{"id":"5775f2de3c21e2dc","x":-1220,"y":654,"width":250,"height":60,"type":"text","text":"能夠在需要的時候快速\"調用\"出來"},
-		{"id":"53b4fef37f8c6b6a","x":-945,"y":645,"width":250,"height":120,"type":"text","text":"能夠幫助我們實現知識的複利，讓看似無關的主題組織出洞見"},
-		{"id":"e3f75eac61e8f309","x":-1120,"y":460,"width":250,"height":60,"type":"text","text":"理想的知識管理是什麼?"},
-		{"id":"3569a685f6caa188","x":-590,"y":585,"width":250,"height":60,"type":"text","text":"柏拉圖式的幻想"},
-		{"id":"df04c3bec9a8b716","x":-570,"y":743,"width":250,"height":87,"type":"text","text":"幻想有一個近乎完美的工具,可以幫我時線實現所有問題"}
+		{"id":"f0480edc7b3bd083","type":"text","text":"知識管理的那回事","x":20,"y":-100,"width":250,"height":60},
+		{"id":"e6c1c91e0238d32f","type":"text","text":"知識管理的方法","x":20,"y":146,"width":250,"height":50},
+		{"id":"acc1913c9e9c2bcf","type":"text","text":"克服資訊焦慮與資訊爆炸","x":460,"y":116,"width":250,"height":60},
+		{"id":"b5e7e223b60b7356","type":"text","text":"軟體","x":-230,"y":400,"width":250,"height":60},
+		{"id":"ffa60382d4f16d0d","type":"text","text":"知識管理的核心","x":-560,"y":146,"width":240,"height":50},
+		{"id":"f0eede5252fbe04e","type":"text","text":"步驟","x":40,"y":400,"width":250,"height":60},
+		{"id":"5d448749f479ab35","type":"text","text":"學習的本質","x":335,"y":320,"width":250,"height":60},
+		{"id":"01ea32cdbdede23f","type":"text","text":"能夠有效地整理\"有用\"的知識(可以被個體快速解析的，即plus筆記)","x":-1353,"y":574,"width":324,"height":60},
+		{"id":"5775f2de3c21e2dc","type":"text","text":"能夠在需要的時候快速\"調用\"出來","x":-1013,"y":574,"width":250,"height":60},
+		{"id":"53b4fef37f8c6b6a","type":"text","text":"能夠幫助我們實現知識的複利，讓看似無關的主題組織出洞見","x":-738,"y":565,"width":250,"height":120},
+		{"id":"e3f75eac61e8f309","type":"text","text":"理想的知識管理是什麼?","x":-913,"y":380,"width":250,"height":60},
+		{"id":"df04c3bec9a8b716","type":"text","text":"幻想有一個近乎完美的工具,可以幫我時線實現所有問題","x":-2130,"y":160,"width":250,"height":87},
+		{"id":"77890963b79957c8","x":-1860,"y":187,"width":250,"height":60,"type":"text","text":"如同捷徑一般的猜想，不可能存在"},
+		{"id":"3569a685f6caa188","type":"text","text":"柏拉圖式的幻想","x":-1785,"y":0,"width":250,"height":60},
+		{"id":"56974565c2653d15","x":-1760,"y":563,"width":250,"height":143,"type":"text","text":"幫助個人提高問題解決、決策、能力和創新進而去蒐集、累積、儲存知識的過程"},
+		{"id":"24a67d75d577d6f3","x":-1700,"y":410,"width":250,"height":60,"type":"text","text":"知識管理(Knowledge Management)的定義"}
 	],
 	"edges":[
 		{"id":"48a4b874221e4c89","fromNode":"f0480edc7b3bd083","fromSide":"bottom","toNode":"ffa60382d4f16d0d","toSide":"top"},
@@ -24,6 +27,7 @@
 		{"id":"a4137587b37f5327","fromNode":"e3f75eac61e8f309","fromSide":"bottom","toNode":"5775f2de3c21e2dc","toSide":"top"},
 		{"id":"091d1de238f2b274","fromNode":"e3f75eac61e8f309","fromSide":"bottom","toNode":"53b4fef37f8c6b6a","toSide":"top"},
 		{"id":"2ddcebfdf2f0b19e","fromNode":"ffa60382d4f16d0d","fromSide":"bottom","toNode":"e3f75eac61e8f309","toSide":"top"},
-		{"id":"77328a5050d39ea4","fromNode":"3569a685f6caa188","fromSide":"bottom","toNode":"df04c3bec9a8b716","toSide":"top"}
+		{"id":"77328a5050d39ea4","fromNode":"3569a685f6caa188","fromSide":"bottom","toNode":"df04c3bec9a8b716","toSide":"top"},
+		{"id":"36b074a09dc43f2d","fromNode":"3569a685f6caa188","fromSide":"bottom","toNode":"77890963b79957c8","toSide":"top"}
 	]
 }
