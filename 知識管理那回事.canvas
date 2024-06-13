@@ -1,12 +1,15 @@
 {
 	"nodes":[
+		{"id":"5775f2de3c21e2dc","x":-774,"y":469,"width":250,"height":60,"type":"text","text":""},
 		{"id":"f0480edc7b3bd083","x":20,"y":-100,"width":250,"height":60,"type":"text","text":"知識管理的那回事"},
 		{"id":"e6c1c91e0238d32f","x":20,"y":146,"width":250,"height":50,"type":"text","text":"知識管理的方法"},
 		{"id":"acc1913c9e9c2bcf","x":460,"y":116,"width":250,"height":60,"type":"text","text":"克服資訊焦慮與資訊爆炸"},
 		{"id":"b5e7e223b60b7356","x":-230,"y":400,"width":250,"height":60,"type":"text","text":"軟體"},
 		{"id":"ffa60382d4f16d0d","x":-560,"y":146,"width":240,"height":50,"type":"text","text":"知識管理的核心"},
 		{"id":"f0eede5252fbe04e","x":40,"y":400,"width":250,"height":60,"type":"text","text":"步驟"},
-		{"id":"5d448749f479ab35","x":335,"y":320,"width":250,"height":60,"type":"text","text":"學習的本質"}
+		{"id":"5d448749f479ab35","x":335,"y":320,"width":250,"height":60,"type":"text","text":"學習的本質"},
+		{"id":"e3f75eac61e8f309","x":-856,"y":275,"width":250,"height":60,"type":"text","text":"理想的知識管理是什麼?"},
+		{"id":"01ea32cdbdede23f","x":-1106,"y":460,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"48a4b874221e4c89","fromNode":"f0480edc7b3bd083","fromSide":"bottom","toNode":"ffa60382d4f16d0d","toSide":"top"},
