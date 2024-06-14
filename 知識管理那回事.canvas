@@ -25,7 +25,7 @@
 		{"id":"8e30cb9541d22405","x":680,"y":742,"width":250,"height":60,"type":"text","text":"檢索"},
 		{"id":"66c74c115522a996","x":1260,"y":742,"width":250,"height":60,"type":"text","text":"分析"},
 		{"id":"1ad987bc7d4b5374","x":1840,"y":742,"width":250,"height":60,"type":"text","text":"組織"},
-		{"id":"b455ce5c269dd6cb","x":-66,"y":1326,"width":250,"height":60,"type":"text","text":"obsidian的腦圖也足夠讓我寫好一篇文章，他很是用來做創意發現，"}
+		{"id":"b455ce5c269dd6cb","x":85,"y":1260,"width":250,"height":194,"type":"text","text":"obsidian的腦圖也足夠讓我寫好一篇文章，他很是用來做創意發現，卻不適合用來做知識串接(卡片連接)"}
 	],
 	"edges":[
 		{"id":"48a4b874221e4c89","fromNode":"f0480edc7b3bd083","fromSide":"bottom","toNode":"ffa60382d4f16d0d","toSide":"top"},
