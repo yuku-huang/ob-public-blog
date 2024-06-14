@@ -21,7 +21,9 @@
 		{"id":"06040410ab955798","x":85,"y":740,"width":250,"height":60,"type":"text","text":"紀錄"},
 		{"id":"8e30cb9541d22405","x":351,"y":742,"width":250,"height":60,"type":"text","text":"檢索"},
 		{"id":"1ad987bc7d4b5374","x":957,"y":740,"width":250,"height":60,"type":"text","text":"組織"},
-		{"id":"66c74c115522a996","x":660,"y":740,"width":250,"height":60,"type":"text","text":"分析"}
+		{"id":"66c74c115522a996","x":660,"y":740,"width":250,"height":60,"type":"text","text":"分析"},
+		{"id":"5b261fd022532e03","x":-220,"y":1000,"width":250,"height":60,"type":"text","text":"紀錄什麼"},
+		{"id":"882c712780a01282","x":-445,"y":902,"width":250,"height":60,"type":"text","text":"紀錄要足夠順手"}
 	],
 	"edges":[
 		{"id":"48a4b874221e4c89","fromNode":"f0480edc7b3bd083","fromSide":"bottom","toNode":"ffa60382d4f16d0d","toSide":"top"},
