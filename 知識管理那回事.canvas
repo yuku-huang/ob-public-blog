@@ -26,9 +26,13 @@
 		{"id":"1ad987bc7d4b5374","type":"text","text":"組織","x":1840,"y":742,"width":250,"height":60},
 		{"id":"b455ce5c269dd6cb","type":"text","text":"obsidian的腦圖也足夠讓我寫好一篇文章，他很是用來做創意發現，卻不適合用來做知識串接(卡片連接)","x":85,"y":1260,"width":250,"height":194},
 		{"id":"01ea32cdbdede23f","type":"text","text":"能夠有效地整理\"有用\"的知識(可以被個體快速解析的，即plus筆記)","x":-1380,"y":655,"width":324,"height":60},
-		{"id":"c05e1a4f2dab728a","x":930,"y":1156,"width":250,"height":60,"type":"text","text":"學習搜尋的技術"},
-		{"id":"5af9c6555391fca8","x":555,"y":1057,"width":250,"height":60,"type":"text","text":"搜尋自己的筆記"},
-		{"id":"5a2f6aa9ad3d74cf","x":900,"y":1057,"width":250,"height":60,"type":"text","text":"搜尋網路資源"}
+		{"id":"c05e1a4f2dab728a","type":"text","text":"學習搜尋的技術","x":930,"y":1156,"width":250,"height":60},
+		{"id":"6b92b7e0ae7eccc4","type":"text","text":"第二大腦，知識產生的地方 : Heptabase、Obsidian","x":-420,"y":698,"width":250,"height":60},
+		{"id":"df552692160cafc6","type":"text","text":"儲存大量資料的地方 : notion 、zotero","x":-420,"y":514,"width":250,"height":60},
+		{"id":"b151c309c6b7f7f8","type":"text","text":"足夠輕易上手蒐集靈感的地方 : flomo","x":-420,"y":604,"width":250,"height":60},
+		{"id":"5a2f6aa9ad3d74cf","type":"text","text":"搜尋網路資源","x":885,"y":939,"width":250,"height":60},
+		{"id":"5af9c6555391fca8","type":"text","text":"搜尋自己的筆記","x":540,"y":939,"width":250,"height":60},
+		{"id":"5ef4946a961729b0","x":430,"y":1126,"width":250,"height":60,"type":"text","text":"如何確保?"}
 	],
 	"edges":[
 		{"id":"48a4b874221e4c89","fromNode":"f0480edc7b3bd083","fromSide":"bottom","toNode":"ffa60382d4f16d0d","toSide":"top"},
@@ -49,6 +53,10 @@
 		{"id":"0536554fef91f818","fromNode":"06040410ab955798","fromSide":"bottom","toNode":"882c712780a01282","toSide":"top"},
 		{"id":"0506d4b110150b27","fromNode":"06040410ab955798","fromSide":"bottom","toNode":"5b261fd022532e03","toSide":"top"},
 		{"id":"1a2cccab79ed3719","fromNode":"06040410ab955798","fromSide":"bottom","toNode":"756e9e09c8c77aab","toSide":"top"},
-		{"id":"921354cd13d34219","fromNode":"01ea32cdbdede23f","fromSide":"bottom","toNode":"5b261fd022532e03","toSide":"left"}
+		{"id":"921354cd13d34219","fromNode":"01ea32cdbdede23f","fromSide":"bottom","toNode":"5b261fd022532e03","toSide":"left"},
+		{"id":"c2ed05ad529108db","fromNode":"5a2f6aa9ad3d74cf","fromSide":"bottom","toNode":"c05e1a4f2dab728a","toSide":"top"},
+		{"id":"a467820089655b6c","fromNode":"8e30cb9541d22405","fromSide":"bottom","toNode":"5af9c6555391fca8","toSide":"top"},
+		{"id":"63c0f45cd08397ea","fromNode":"8e30cb9541d22405","fromSide":"bottom","toNode":"5a2f6aa9ad3d74cf","toSide":"top"},
+		{"id":"d23735e0cd43c192","fromNode":"5ef4946a961729b0","fromSide":"top","toNode":"5af9c6555391fca8","toSide":"bottom"}
 	]
 }
