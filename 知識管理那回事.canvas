@@ -17,7 +17,11 @@
 		{"id":"24a67d75d577d6f3","x":-1700,"y":410,"width":250,"height":60,"type":"text","text":"知識管理(Knowledge Management)的定義"},
 		{"id":"7dbb30c1302775a2","x":-2165,"y":547,"width":291,"height":174,"type":"text","text":"在学术界，“知识管理（Knowledge Management）”主要指以企业和组织为单位的知识 生产与管理，其目标是最大化企业的无形资产"},
 		{"id":"58b83c4ed3412dea","x":-1280,"y":410,"width":314,"height":60,"type":"text","text":"你需要先掌握的技能?寫作?"},
-		{"id":"56974565c2653d15","x":-1785,"y":604,"width":250,"height":143,"type":"text","text":"幫助個人提高問題解決、決策、能力和創新進而去蒐集、累積、儲存知識的過程\n\n“个人知识管 理”，学者将其定义为“个人为了提高问题解决、决策、能力和创新而获取、创建、共享 和存储知识的过程”。这"}
+		{"id":"56974565c2653d15","x":-1785,"y":604,"width":250,"height":143,"type":"text","text":"幫助個人提高問題解決、決策、能力和創新進而去蒐集、累積、儲存知識的過程\n\n“个人知识管 理”，学者将其定义为“个人为了提高问题解决、决策、能力和创新而获取、创建、共享 和存储知识的过程”。这"},
+		{"id":"06040410ab955798","x":85,"y":740,"width":250,"height":60,"type":"text","text":"紀錄"},
+		{"id":"8e30cb9541d22405","x":351,"y":742,"width":250,"height":60,"type":"text","text":"檢索"},
+		{"id":"1ad987bc7d4b5374","x":957,"y":740,"width":250,"height":60,"type":"text","text":"組織"},
+		{"id":"66c74c115522a996","x":660,"y":740,"width":250,"height":60,"type":"text","text":"分析"}
 	],
 	"edges":[
 		{"id":"48a4b874221e4c89","fromNode":"f0480edc7b3bd083","fromSide":"bottom","toNode":"ffa60382d4f16d0d","toSide":"top"},
@@ -30,6 +34,10 @@
 		{"id":"091d1de238f2b274","fromNode":"e3f75eac61e8f309","fromSide":"bottom","toNode":"53b4fef37f8c6b6a","toSide":"top"},
 		{"id":"2ddcebfdf2f0b19e","fromNode":"ffa60382d4f16d0d","fromSide":"bottom","toNode":"e3f75eac61e8f309","toSide":"top"},
 		{"id":"77328a5050d39ea4","fromNode":"3569a685f6caa188","fromSide":"bottom","toNode":"df04c3bec9a8b716","toSide":"top"},
-		{"id":"36b074a09dc43f2d","fromNode":"3569a685f6caa188","fromSide":"bottom","toNode":"77890963b79957c8","toSide":"top"}
+		{"id":"36b074a09dc43f2d","fromNode":"3569a685f6caa188","fromSide":"bottom","toNode":"77890963b79957c8","toSide":"top"},
+		{"id":"a5581056c6c9725f","fromNode":"f0eede5252fbe04e","fromSide":"bottom","toNode":"06040410ab955798","toSide":"top"},
+		{"id":"da0e4da380142832","fromNode":"06040410ab955798","fromSide":"top","toNode":"8e30cb9541d22405","toSide":"top"},
+		{"id":"69103f30a96333f3","fromNode":"8e30cb9541d22405","fromSide":"top","toNode":"66c74c115522a996","toSide":"top"},
+		{"id":"21639e5692ae7f2e","fromNode":"66c74c115522a996","fromSide":"top","toNode":"1ad987bc7d4b5374","toSide":"top"}
 	]
 }
