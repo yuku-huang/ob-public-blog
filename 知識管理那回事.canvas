@@ -19,11 +19,13 @@
 		{"id":"58b83c4ed3412dea","x":-1280,"y":410,"width":314,"height":60,"type":"text","text":"你需要先掌握的技能?寫作?"},
 		{"id":"56974565c2653d15","x":-1785,"y":604,"width":250,"height":143,"type":"text","text":"幫助個人提高問題解決、決策、能力和創新進而去蒐集、累積、儲存知識的過程\n\n“个人知识管 理”，学者将其定义为“个人为了提高问题解决、决策、能力和创新而获取、创建、共享 和存储知识的过程”。这"},
 		{"id":"06040410ab955798","x":85,"y":740,"width":250,"height":60,"type":"text","text":"紀錄"},
-		{"id":"8e30cb9541d22405","x":351,"y":742,"width":250,"height":60,"type":"text","text":"檢索"},
-		{"id":"1ad987bc7d4b5374","x":957,"y":740,"width":250,"height":60,"type":"text","text":"組織"},
-		{"id":"66c74c115522a996","x":660,"y":740,"width":250,"height":60,"type":"text","text":"分析"},
-		{"id":"5b261fd022532e03","x":-220,"y":1000,"width":250,"height":60,"type":"text","text":"紀錄什麼"},
-		{"id":"882c712780a01282","x":-445,"y":902,"width":250,"height":60,"type":"text","text":"紀錄要足夠順手"}
+		{"id":"5b261fd022532e03","x":-205,"y":1017,"width":250,"height":120,"type":"text","text":"紀錄有啟發感的事情(跟著感覺走)，根據PP理論，有啟發感意味著我們大腦的預測失誤，他讓我們發現以前的想法可能是錯的，這個有可能是對的，趕緊記下來"},
+		{"id":"882c712780a01282","x":-385,"y":920,"width":250,"height":60,"type":"text","text":"紀錄要足夠集中且順手"},
+		{"id":"756e9e09c8c77aab","x":85,"y":999,"width":250,"height":157,"type":"text","text":"紀錄本質上是對經驗的雙重編碼 : 妳透過語言描述經驗，並將他紀錄再硬碟之中"},
+		{"id":"8e30cb9541d22405","x":680,"y":742,"width":250,"height":60,"type":"text","text":"檢索"},
+		{"id":"66c74c115522a996","x":1260,"y":742,"width":250,"height":60,"type":"text","text":"分析"},
+		{"id":"1ad987bc7d4b5374","x":1840,"y":742,"width":250,"height":60,"type":"text","text":"組織"},
+		{"id":"b455ce5c269dd6cb","x":-66,"y":1326,"width":250,"height":60,"type":"text","text":"obsidian的腦圖也足夠讓我寫好一篇文章，他很是用來做創意發現，"}
 	],
 	"edges":[
 		{"id":"48a4b874221e4c89","fromNode":"f0480edc7b3bd083","fromSide":"bottom","toNode":"ffa60382d4f16d0d","toSide":"top"},
@@ -40,6 +42,9 @@
 		{"id":"a5581056c6c9725f","fromNode":"f0eede5252fbe04e","fromSide":"bottom","toNode":"06040410ab955798","toSide":"top"},
 		{"id":"da0e4da380142832","fromNode":"06040410ab955798","fromSide":"top","toNode":"8e30cb9541d22405","toSide":"top"},
 		{"id":"69103f30a96333f3","fromNode":"8e30cb9541d22405","fromSide":"top","toNode":"66c74c115522a996","toSide":"top"},
-		{"id":"21639e5692ae7f2e","fromNode":"66c74c115522a996","fromSide":"top","toNode":"1ad987bc7d4b5374","toSide":"top"}
+		{"id":"21639e5692ae7f2e","fromNode":"66c74c115522a996","fromSide":"top","toNode":"1ad987bc7d4b5374","toSide":"top"},
+		{"id":"0536554fef91f818","fromNode":"06040410ab955798","fromSide":"bottom","toNode":"882c712780a01282","toSide":"top"},
+		{"id":"0506d4b110150b27","fromNode":"06040410ab955798","fromSide":"bottom","toNode":"5b261fd022532e03","toSide":"top"},
+		{"id":"1a2cccab79ed3719","fromNode":"06040410ab955798","fromSide":"bottom","toNode":"756e9e09c8c77aab","toSide":"top"}
 	]
 }
