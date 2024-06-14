@@ -35,7 +35,8 @@
 		{"id":"f546e41ae0d83862","x":640,"y":195,"width":240,"height":155,"type":"text","text":"忘了就忘了，受過的啟發會在創作的深挖過程中，重新不期而遇"},
 		{"id":"acc1913c9e9c2bcf","type":"text","text":"克服資訊焦慮與資訊爆炸","x":1000,"y":20,"width":250,"height":60},
 		{"id":"5d448749f479ab35","type":"text","text":"知識(學習)的本質是答案，但你的問題是什麼?","x":1000,"y":195,"width":250,"height":60},
-		{"id":"e992ae276915f0b0","x":-606,"y":329,"width":250,"height":151,"type":"text","text":"知識管理的起點是提問\n問個好問題，從個人的狀態出發"}
+		{"id":"e992ae276915f0b0","x":-606,"y":329,"width":250,"height":151,"type":"text","text":"知識管理的起點是提問\n問個好問題，從個人的狀態出發"},
+		{"id":"c1928fa0a8ce7bc2","x":-1074,"y":226,"width":250,"height":60,"type":"text","text":"活用知識，並且復盤紀錄"}
 	],
 	"edges":[
 		{"id":"48a4b874221e4c89","fromNode":"f0480edc7b3bd083","fromSide":"bottom","toNode":"ffa60382d4f16d0d","toSide":"top"},
