@@ -7,25 +7,25 @@
 		{"id":"ffa60382d4f16d0d","type":"text","text":"知識管理的核心","x":-560,"y":146,"width":240,"height":50},
 		{"id":"f0eede5252fbe04e","type":"text","text":"步驟","x":40,"y":400,"width":250,"height":60},
 		{"id":"5d448749f479ab35","type":"text","text":"學習的本質","x":335,"y":320,"width":250,"height":60},
-		{"id":"01ea32cdbdede23f","type":"text","text":"能夠有效地整理\"有用\"的知識(可以被個體快速解析的，即plus筆記)","x":-1353,"y":574,"width":324,"height":60},
 		{"id":"5775f2de3c21e2dc","type":"text","text":"能夠在需要的時候快速\"調用\"出來","x":-1013,"y":574,"width":250,"height":60},
 		{"id":"53b4fef37f8c6b6a","type":"text","text":"能夠幫助我們實現知識的複利，讓看似無關的主題組織出洞見","x":-738,"y":565,"width":250,"height":120},
 		{"id":"e3f75eac61e8f309","type":"text","text":"理想的知識管理是什麼?","x":-913,"y":380,"width":250,"height":60},
 		{"id":"df04c3bec9a8b716","type":"text","text":"幻想有一個近乎完美的工具,可以幫我時線實現所有問題","x":-2130,"y":160,"width":250,"height":87},
-		{"id":"77890963b79957c8","x":-1860,"y":187,"width":250,"height":60,"type":"text","text":"如同捷徑一般的猜想，不可能存在"},
+		{"id":"77890963b79957c8","type":"text","text":"如同捷徑一般的猜想，不可能存在","x":-1860,"y":187,"width":250,"height":60},
 		{"id":"3569a685f6caa188","type":"text","text":"柏拉圖式的幻想","x":-1785,"y":0,"width":250,"height":60},
-		{"id":"24a67d75d577d6f3","x":-1700,"y":410,"width":250,"height":60,"type":"text","text":"知識管理(Knowledge Management)的定義"},
-		{"id":"7dbb30c1302775a2","x":-2165,"y":547,"width":291,"height":174,"type":"text","text":"在学术界，“知识管理（Knowledge Management）”主要指以企业和组织为单位的知识 生产与管理，其目标是最大化企业的无形资产"},
-		{"id":"58b83c4ed3412dea","x":-1280,"y":410,"width":314,"height":60,"type":"text","text":"你需要先掌握的技能?寫作?"},
-		{"id":"56974565c2653d15","x":-1785,"y":604,"width":250,"height":143,"type":"text","text":"幫助個人提高問題解決、決策、能力和創新進而去蒐集、累積、儲存知識的過程\n\n“个人知识管 理”，学者将其定义为“个人为了提高问题解决、决策、能力和创新而获取、创建、共享 和存储知识的过程”。这"},
-		{"id":"06040410ab955798","x":85,"y":740,"width":250,"height":60,"type":"text","text":"紀錄"},
-		{"id":"5b261fd022532e03","x":-205,"y":1017,"width":250,"height":120,"type":"text","text":"紀錄有啟發感的事情(跟著感覺走)，根據PP理論，有啟發感意味著我們大腦的預測失誤，他讓我們發現以前的想法可能是錯的，這個有可能是對的，趕緊記下來"},
-		{"id":"882c712780a01282","x":-385,"y":920,"width":250,"height":60,"type":"text","text":"紀錄要足夠集中且順手"},
-		{"id":"756e9e09c8c77aab","x":85,"y":999,"width":250,"height":157,"type":"text","text":"紀錄本質上是對經驗的雙重編碼 : 妳透過語言描述經驗，並將他紀錄再硬碟之中"},
-		{"id":"8e30cb9541d22405","x":680,"y":742,"width":250,"height":60,"type":"text","text":"檢索"},
-		{"id":"66c74c115522a996","x":1260,"y":742,"width":250,"height":60,"type":"text","text":"分析"},
-		{"id":"1ad987bc7d4b5374","x":1840,"y":742,"width":250,"height":60,"type":"text","text":"組織"},
-		{"id":"b455ce5c269dd6cb","x":85,"y":1260,"width":250,"height":194,"type":"text","text":"obsidian的腦圖也足夠讓我寫好一篇文章，他很是用來做創意發現，卻不適合用來做知識串接(卡片連接)"}
+		{"id":"24a67d75d577d6f3","type":"text","text":"知識管理(Knowledge Management)的定義","x":-1700,"y":410,"width":250,"height":60},
+		{"id":"7dbb30c1302775a2","type":"text","text":"在学术界，“知识管理（Knowledge Management）”主要指以企业和组织为单位的知识 生产与管理，其目标是最大化企业的无形资产","x":-2165,"y":547,"width":291,"height":174},
+		{"id":"58b83c4ed3412dea","type":"text","text":"你需要先掌握的技能?寫作?","x":-1280,"y":410,"width":314,"height":60},
+		{"id":"56974565c2653d15","type":"text","text":"幫助個人提高問題解決、決策、能力和創新進而去蒐集、累積、儲存知識的過程\n\n“个人知识管 理”，学者将其定义为“个人为了提高问题解决、决策、能力和创新而获取、创建、共享 和存储知识的过程”。这","x":-1785,"y":604,"width":250,"height":143},
+		{"id":"06040410ab955798","type":"text","text":"紀錄","x":85,"y":740,"width":250,"height":60},
+		{"id":"5b261fd022532e03","type":"text","text":"紀錄有啟發感的事情(跟著感覺走)，根據PP理論，有啟發感意味著我們大腦的預測失誤，他讓我們發現以前的想法可能是錯的，這個有可能是對的，趕緊記下來","x":-205,"y":1017,"width":250,"height":120},
+		{"id":"882c712780a01282","type":"text","text":"紀錄要足夠集中且順手","x":-385,"y":920,"width":250,"height":60},
+		{"id":"756e9e09c8c77aab","type":"text","text":"紀錄本質上是對經驗的雙重編碼 : 妳透過語言描述經驗，並將他紀錄再硬碟之中","x":85,"y":999,"width":250,"height":157},
+		{"id":"8e30cb9541d22405","type":"text","text":"檢索","x":680,"y":742,"width":250,"height":60},
+		{"id":"66c74c115522a996","type":"text","text":"分析","x":1260,"y":742,"width":250,"height":60},
+		{"id":"1ad987bc7d4b5374","type":"text","text":"組織","x":1840,"y":742,"width":250,"height":60},
+		{"id":"b455ce5c269dd6cb","type":"text","text":"obsidian的腦圖也足夠讓我寫好一篇文章，他很是用來做創意發現，卻不適合用來做知識串接(卡片連接)","x":85,"y":1260,"width":250,"height":194},
+		{"id":"01ea32cdbdede23f","type":"text","text":"能夠有效地整理\"有用\"的知識(可以被個體快速解析的，即plus筆記)","x":-1380,"y":655,"width":324,"height":60}
 	],
 	"edges":[
 		{"id":"48a4b874221e4c89","fromNode":"f0480edc7b3bd083","fromSide":"bottom","toNode":"ffa60382d4f16d0d","toSide":"top"},
@@ -45,6 +45,7 @@
 		{"id":"21639e5692ae7f2e","fromNode":"66c74c115522a996","fromSide":"top","toNode":"1ad987bc7d4b5374","toSide":"top"},
 		{"id":"0536554fef91f818","fromNode":"06040410ab955798","fromSide":"bottom","toNode":"882c712780a01282","toSide":"top"},
 		{"id":"0506d4b110150b27","fromNode":"06040410ab955798","fromSide":"bottom","toNode":"5b261fd022532e03","toSide":"top"},
-		{"id":"1a2cccab79ed3719","fromNode":"06040410ab955798","fromSide":"bottom","toNode":"756e9e09c8c77aab","toSide":"top"}
+		{"id":"1a2cccab79ed3719","fromNode":"06040410ab955798","fromSide":"bottom","toNode":"756e9e09c8c77aab","toSide":"top"},
+		{"id":"921354cd13d34219","fromNode":"01ea32cdbdede23f","fromSide":"bottom","toNode":"5b261fd022532e03","toSide":"left"}
 	]
 }
