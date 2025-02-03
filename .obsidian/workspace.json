@@ -63,10 +63,12 @@
             "id": "e41e2b113f4b3835",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-19 16.17.36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-19 16.17.36.excalidraw"
             }
           }
         ],
@@ -251,6 +253,8 @@
   },
   "active": "e41e2b113f4b3835",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-15 00.10.36.excalidraw.md",
+    "obsidian部落格系統/使用的插件.md",
     "content/index.md",
     "node_modules/@types/node/assert/strict.d.ts",
     "node_modules/@types/node/assert",
@@ -295,8 +299,6 @@
     "node_modules/micromark/readme.md",
     "node_modules/fastq/README.md",
     "node_modules/@xmldom/xmldom/readme.md",
-    "node_modules/shiki/README.md",
-    "node_modules/@clack/prompts/README.md",
     "文章管理/人生必修課藍圖.canvas",
     "文章管理/2024.5.18武敬凱商業講座.canvas",
     "文章管理/知識管理那回事.canvas",
