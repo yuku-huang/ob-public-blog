@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "fe227e51c36c57b2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-15 00.10.36.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-15 00.10.36.excalidraw"
-            }
-          },
-          {
             "id": "16db4186626f7c7c",
             "type": "leaf",
             "state": {
@@ -63,16 +51,18 @@
             "id": "e41e2b113f4b3835",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-19 16.17.36.excalidraw.md"
+                "file": "obsidian部落格系統/使用的插件.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-19 16.17.36.excalidraw"
+              "icon": "lucide-file",
+              "title": "使用的插件"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -253,6 +243,7 @@
   },
   "active": "e41e2b113f4b3835",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-19 16.17.36.excalidraw.md",
     "Excalidraw/Drawing 2025-01-15 00.10.36.excalidraw.md",
     "obsidian部落格系統/使用的插件.md",
     "content/index.md",
@@ -298,7 +289,6 @@
     "node_modules/tsx/README.md",
     "node_modules/micromark/readme.md",
     "node_modules/fastq/README.md",
-    "node_modules/@xmldom/xmldom/readme.md",
     "文章管理/人生必修課藍圖.canvas",
     "文章管理/2024.5.18武敬凱商業講座.canvas",
     "文章管理/知識管理那回事.canvas",
