@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian部落格系統/使用的插件.md",
+                "file": "content/網站靈感.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "使用的插件"
+              "title": "網站靈感"
             }
           }
         ],
@@ -129,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.50152587890625
+    "width": 236.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "75e047bc5f7dcc09",
@@ -191,10 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-15 00.10.36.excalidraw.md"
+                "file": "content/網站靈感.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-01-15 00.10.36.excalidraw 的大綱"
+              "title": "網站靈感 的大綱"
             }
           },
           {
@@ -218,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -236,16 +240,19 @@
       "templater-obsidian:Templater": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-projects:打开项目": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false
     }
   },
   "active": "e41e2b113f4b3835",
   "lastOpenFiles": [
+    "content/高效與完人的必修技能與知識.md",
+    "content/12 個感興趣的主題.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md",
+    "obsidian部落格系統/使用的插件.md",
     "Excalidraw/Drawing 2025-01-19 16.17.36.excalidraw.md",
     "Excalidraw/Drawing 2025-01-15 00.10.36.excalidraw.md",
-    "obsidian部落格系統/使用的插件.md",
     "content/index.md",
     "node_modules/@types/node/assert/strict.d.ts",
     "node_modules/@types/node/assert",
@@ -285,10 +292,6 @@
     "node_modules/@bufbuild/protobuf/README.md",
     "node_modules/typescript/SECURITY.md",
     "node_modules/typescript/README.md",
-    "node_modules/@citation-js/plugin-bibtex/README.md",
-    "node_modules/tsx/README.md",
-    "node_modules/micromark/readme.md",
-    "node_modules/fastq/README.md",
     "文章管理/人生必修課藍圖.canvas",
     "文章管理/2024.5.18武敬凱商業講座.canvas",
     "文章管理/知識管理那回事.canvas",
