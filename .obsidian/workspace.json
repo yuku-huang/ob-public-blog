@@ -73,8 +73,7 @@
               "title": "Release Notes 1.8.7"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,13 +255,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5179c6e18c0885f1",
+  "active": "66a67ff87a3350bf",
   "lastOpenFiles": [
+    "obsidian部落格系統/使用的插件.md",
+    "文章管理/關於學習與創作的這回事.md",
+    "content/網站靈感.md",
     "content/高效與完人的必修技能與知識.md",
     "content/12 個感興趣的主題.md",
     "CODE_OF_CONDUCT.md",
     "README.md",
-    "obsidian部落格系統/使用的插件.md",
     "Excalidraw/Drawing 2025-01-19 16.17.36.excalidraw.md",
     "Excalidraw/Drawing 2025-01-15 00.10.36.excalidraw.md",
     "content/index.md",
@@ -302,8 +303,6 @@
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
     "node_modules/@bufbuild/protobuf/README.md",
-    "node_modules/typescript/SECURITY.md",
-    "node_modules/typescript/README.md",
     "文章管理/人生必修課藍圖.canvas",
     "文章管理/2024.5.18武敬凱商業講座.canvas",
     "文章管理/知識管理那回事.canvas",
