@@ -306,16 +306,6 @@ export const customImage: SocialImageOptions["imageStructure"] = (
 >   return (
 >     <div
 >       style={{ position: "relative", display: "flex", flexDirection: "row", alignItems: "flex-start", height: "100%", width: "100%", backgroundImage: "url('https://${cfg.baseUrl}')" }}>
-<!-- {{
->         position: "relative",
->         display: "flex",
->         flexDirection: "row",
->         alignItems: "flex-start",
->         height: "100%",
->         width: "100%",
->         backgroundImage: `url("https://${cfg.baseUrl}")`,
->         backgroundSize: "100% 100%",
->       }} -->
 > 
 >       <div
 >         style={{
