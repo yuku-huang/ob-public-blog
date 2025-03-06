@@ -11,7 +11,7 @@ This plugin provides support for [Roam Research](https://roamresearch.com) compa
 
 This plugin accepts the following configuration options:
 
-- `orComponent`: If `true` (default), converts Roam {% if or == "ONE" or or == "TWO" or or == "THREE" %} shortcodes into HTML Dropdown options.
+- `orComponent`: If `true` (default), converts Roam {% if or == "ONE" or or == "TWO" or or == "THREE" %} shortcodes {% endif %} into HTML Dropdown options.
 - `TODOComponent`: If `true` (default), converts Roam {% raw %}{{ TODO }}{% endraw %} shortcodes into HTML check boxes.
 - `DONEComponent`: If `true` (default), converts Roam {% raw %}{{ DONE }}{% endraw %} shortcodes into checked HTML check boxes.
 - `videoComponent`: If `true` (default), converts Roam {% raw %}{{ video_url }}{% endraw %} shortcodes into embeded HTML video.
