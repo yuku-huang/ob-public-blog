@@ -29,13 +29,13 @@ The following diagram draws the relationships between all the path sources, nomi
 
 ```mermaid
 graph LR
-    Browser{{Browser}} --> Window{{Body}} & LinkElement{{ "Link Element" }}
+    Browser{{Browser}} --> Window{{Body}} & LinkElement{% raw %}{{Link Element}}{% endraw %}
     Window --"getFullSlug()"--> FullSlug[Full Slug]
     LinkElement --".href"--> Relative[Relative URL]
     FullSlug --"simplifySlug()" --> SimpleSlug[Simple Slug]
     SimpleSlug --"pathToRoot()"--> Relative
     SimpleSlug --"resolveRelative()" --> Relative
-    MD{{ "Markdown File" }} --> FilePath{{ "File Path" }} & Links[Markdown links]
+    MD{% raw %}{{Markdown File}}{% endraw %} --> FilePath{% raw %}{{File Path}}{% endraw %} & Links[Markdown links]
     Links --"transformLink()"--> Relative
     FilePath --"slugifyFilePath()"--> FullSlug[Full Slug]
     style FullSlug stroke-width:4px

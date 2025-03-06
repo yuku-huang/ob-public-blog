@@ -15,9 +15,9 @@ This plugin accepts the following configuration options:
 - `TODOComponent`: If `true` (default), converts Roam {% raw %}{{ TODO }}{% endraw %} shortcodes into HTML check boxes.
 - `DONEComponent`: If `true` (default), converts Roam {% raw %}{{ DONE }}{% endraw %} shortcodes into checked HTML check boxes.
 - `videoComponent`: If `true` (default), converts Roam {% raw %}{{ video_url }}{% endraw %} shortcodes into embeded HTML video.
-- `audioComponent`: If `true` (default), converts Roam {{ "[[audio]]:URL" }} shortcodes into embeded HTML audio.
-- `pdfComponent`: If `true` (default), converts Roam {{ "[[pdf]]:URL" }} shortcodes into embeded HTML PDF viewer.
-- `blockquoteComponent`: If `true` (default), converts Roam {{ "[[>]]" }} shortcodes into Quartz blockquotes.
+- `audioComponent`: If `true` (default), converts Roam {% raw %}{{[[audio]]:URL}}{% endraw %} shortcodes into embeded HTML audio.
+- `pdfComponent`: If `true` (default), converts Roam {% raw %}{{[[pdf]]:URL}}{% endraw %} shortcodes into embeded HTML PDF viewer.
+- `blockquoteComponent`: If `true` (default), converts Roam {% raw %}{{[[>]]}}{% endraw %} shortcodes into Quartz blockquotes.
 
 ## API
 
