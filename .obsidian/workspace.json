@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "網站靈感"
             }
+          },
+          {
+            "id": "5179c6e18c0885f1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -244,7 +256,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e41e2b113f4b3835",
+  "active": "5179c6e18c0885f1",
   "lastOpenFiles": [
     "content/高效與完人的必修技能與知識.md",
     "content/12 個感興趣的主題.md",
