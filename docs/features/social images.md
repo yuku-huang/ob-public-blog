@@ -218,6 +218,11 @@ export const customImage: SocialImageOptions["imageStructure"] = (
         alignItems: "center",
         height: "100%",
         width: "100%",
+        backgroundColor: cfg.theme.colors[colorScheme].light,
+        flexDirection: "column",
+        gap: "2.5rem",
+        paddingTop: "2rem",
+        paddingBottom: "2rem",
       }}
     >
       <div
@@ -307,7 +312,7 @@ export const customImage: SocialImageOptions["imageStructure"] = (
 >         alignItems: "flex-start",
 >         height: "100%",
 >         width: "100%",
->         backgroundImage: `url("https://${cfg.baseUrl}/static/og-image.jpeg")`,
+>         backgroundImage: `url("https://${cfg.baseUrl}")`,
 >         backgroundSize: "100% 100%",
 >       }}
 >     >
