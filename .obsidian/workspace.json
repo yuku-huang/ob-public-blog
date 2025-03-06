@@ -257,6 +257,8 @@
   },
   "active": "65e0b81fbc719a35",
   "lastOpenFiles": [
+    "docs/plugins/Citations.md",
+    "docs/features/Citations.md",
     "文章管理/關於學習與創作的這回事.md",
     "obsidian部落格系統/使用的插件.md",
     "content/網站靈感.md",
@@ -301,8 +303,6 @@
     "node_modules/mdast-util-gfm/readme.md",
     "node_modules/mdast-util-frontmatter/readme.md",
     "node_modules/mathjax-full/README.md",
-    "node_modules/mathjax-full/CONTRIBUTING.md",
-    "node_modules/@bufbuild/protobuf/README.md",
     "文章管理/人生必修課藍圖.canvas",
     "文章管理/2024.5.18武敬凱商業講座.canvas",
     "文章管理/知識管理那回事.canvas",
