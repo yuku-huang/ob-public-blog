@@ -48,6 +48,18 @@
             }
           },
           {
+            "id": "f0af71f3fda389db",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "e41e2b113f4b3835",
             "type": "leaf",
             "state": {
@@ -74,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -255,7 +267,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "65e0b81fbc719a35",
+  "active": "f0af71f3fda389db",
   "lastOpenFiles": [
     "quartz/util/emoji.ts",
     "quartz/plugins/emitters/contentIndex.tsx",
