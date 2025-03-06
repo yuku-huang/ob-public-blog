@@ -6,7 +6,7 @@ tags:
 
 [Roam Research](https://roamresearch.com) is a note-taking tool that organizes your knowledge graph in a unique and interconnected way.
 
-Quartz supports transforming the special Markdown syntax from Roam Research (like `{{[[components]]}}` and other formatting) into
+Quartz supports transforming the special Markdown syntax from Roam Research (like {% raw %}{{ components }}{% endraw %} and other formatting) into
 regular Markdown via the [[RoamFlavoredMarkdown]] plugin.
 
 ```typescript title="quartz.config.ts"

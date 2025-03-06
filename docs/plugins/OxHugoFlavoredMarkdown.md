@@ -13,7 +13,7 @@ This plugin accepts the following configuration options:
 
 - `wikilinks`: If `true` (default), converts Hugo `{{ relref }}` shortcodes to Quartz [[wikilinks]].
 - `removePredefinedAnchor`: If `true` (default), strips predefined anchors from headings.
-- `removeHugoShortcode`: If `true` (default), removes Hugo shortcode syntax (`{{}}`) from the content.
+- `removeHugoShortcode`: If `true` (default), removes Hugo shortcode syntax (`{% raw %}{{ shortcode }}{% endraw %}`) from the content.
 - `replaceFigureWithMdImg`: If `true` (default), replaces `<figure/>` with `![]()`.
 - `replaceOrgLatex`: If `true` (default), converts Org-mode [[features/Latex|Latex]] fragments to Quartz-compatible LaTeX wrapped in `$` (for inline) and `$$` (for block equations).
 
