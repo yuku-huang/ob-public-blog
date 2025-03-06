@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/20歲年輕父親寫給孩子的信/20歲年輕父親寫給孩子的信-大綱.md",
+                "file": "content/所有文章/《被討厭的勇氣》讀後心得 ! 幸福就是相忘於江湖.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20歲年輕父親寫給孩子的信-大綱"
+              "title": "《被討厭的勇氣》讀後心得 ! 幸福就是相忘於江湖"
             }
           },
           {
@@ -257,6 +257,7 @@
   },
   "active": "65e0b81fbc719a35",
   "lastOpenFiles": [
+    "content/20歲年輕父親寫給孩子的信/20歲年輕父親寫給孩子的信-大綱.md",
     "quartz/util/emoji.ts",
     "quartz/plugins/emitters/contentIndex.tsx",
     "quartz/i18n/locales/nb-NO.ts",
@@ -279,7 +280,6 @@
     "public/註解/卡片筆記/免於…的自由.html",
     "public/註解/卡片筆記/做中學，學中做.html",
     "public/static/giscus/light.css",
-    "public/註解/卡片筆記/不要盲目相信權威，隨時保持懷疑，相信你自己測試的結果.html",
     "public/圖床/Pasted-image-20240608011440.jpg",
     "public/圖床/雜亂線條2.jpg",
     "public/圖床/雜亂線條1.jpg",
