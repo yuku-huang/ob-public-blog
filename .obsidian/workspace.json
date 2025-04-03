@@ -261,8 +261,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ee220072faeb9fd2",
+  "active": "3c1dd578463e28ff",
   "lastOpenFiles": [
+    "未命名",
     "docs/configuration.md",
     "content/活動紀錄/轉系事件.md",
     "content/所有文章/《被討厭的勇氣》讀後心得 ! 幸福就是相忘於江湖.md",
@@ -308,7 +309,6 @@
     "node_modules/estree-util-is-identifier-name/readme.md",
     "node_modules/mdast-util-newline-to-break/readme.md",
     "node_modules/unist-util-is/node_modules/@types/unist/README.md",
-    "node_modules/unist-util-is/readme.md",
     "文章管理/人生必修課藍圖.canvas",
     "文章管理/2024.5.18武敬凱商業講座.canvas",
     "文章管理/知識管理那回事.canvas",
