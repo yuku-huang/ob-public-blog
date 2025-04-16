@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/20歲年輕父親寫給孩子的信/第一封 - 你怎麼來與你要去往何方.md",
+                "file": "AI筆記/AI/人工智能的歷史發展.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一封 - 你怎麼來與你要去往何方"
+              "title": "人工智能的歷史發展"
             }
           }
         ],
@@ -267,11 +267,15 @@
   },
   "active": "ee220072faeb9fd2",
   "lastOpenFiles": [
-    "content/20歲年輕父親寫給孩子的信/開篇.md",
-    "content/20歲年輕父親寫給孩子的信/第一封 - 你怎麼來與你要去往何方.md",
-    "content/20歲年輕父親寫給孩子的信/20歲年輕父親寫給孩子的信-大綱.md",
     "AI筆記/Philosophy/人生的心得.md",
     "AI筆記/AI/人工智能的歷史發展.md",
+    "content/20歲年輕父親寫給孩子的信/第一封 - 你怎麼來與你要去往何方.md",
+    "content/知識卡片/AI.md",
+    "content/知識卡片",
+    "content/卡片/Hello World 卡片.md",
+    "content/卡片",
+    "content/20歲年輕父親寫給孩子的信/開篇.md",
+    "content/20歲年輕父親寫給孩子的信/20歲年輕父親寫給孩子的信-大綱.md",
     "AI筆記/AI",
     "AI筆記",
     "docs/configuration.md",
@@ -295,8 +299,6 @@
     "content/index.md",
     "node_modules/@types/node/assert/strict.d.ts",
     "node_modules/@types/node/assert",
-    "public/註解/卡片筆記/讓人事物維持他們的樣子，尊重不同人的選擇，不隨意評價任何人事物.html",
-    "public/註解/卡片筆記/免於…的自由.html",
     "public/圖床/Pasted-image-20240608011440.jpg",
     "public/圖床/雜亂線條2.jpg",
     "public/圖床/雜亂線條1.jpg",
@@ -311,8 +313,6 @@
     "node_modules/mdast-util-gfm-strikethrough/readme.md",
     "node_modules/mdast-util-gfm-table/readme.md",
     "node_modules/mdast-util-gfm-footnote/readme.md",
-    "node_modules/mdast-util-gfm-autolink-literal/readme.md",
-    "node_modules/hast-util-from-dom/readme.md",
     "文章管理/人生必修課藍圖.canvas",
     "文章管理/2024.5.18武敬凱商業講座.canvas",
     "文章管理/知識管理那回事.canvas",
