@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/網站靈感.md",
+                "file": "AI筆記/Philosophy/人生的心得.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "網站靈感 的大綱"
+              "title": "人生的心得 的大綱"
             }
           },
           {
@@ -243,12 +243,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 524.5,
-    "collapsed": true
+    "width": 524.5
   },
   "left-ribbon": {
     "hiddenItems": {
