@@ -82,9 +82,21 @@
               "icon": "lucide-file",
               "title": "人生的心得"
             }
+          },
+          {
+            "id": "e08d1d7584d2929a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.9.14"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -251,6 +263,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:建立新的 base": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -264,7 +277,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ee220072faeb9fd2",
+  "active": "e08d1d7584d2929a",
   "lastOpenFiles": [
     "AI筆記/AI/人工智能的歷史發展.md",
     "AI筆記/Philosophy/人生的心得.md",
