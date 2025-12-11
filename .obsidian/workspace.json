@@ -94,9 +94,21 @@
               "icon": "lucide-book-up",
               "title": "發行記錄 1.9.14"
             }
+          },
+          {
+            "id": "02a5ef75d2d5de88",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.10.6"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -277,7 +289,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e08d1d7584d2929a",
+  "active": "02a5ef75d2d5de88",
   "lastOpenFiles": [
     "AI筆記/AI/人工智能的歷史發展.md",
     "AI筆記/Philosophy/人生的心得.md",
