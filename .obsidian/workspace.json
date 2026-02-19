@@ -99,12 +99,14 @@
             "id": "02a5ef75d2d5de88",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "待整理筆記/VUR版本更新紀錄.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "發行記錄 1.10.6"
+              "icon": "lucide-file",
+              "title": "VUR版本更新紀錄"
             }
           }
         ],
@@ -271,7 +273,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 524.5
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,10 +293,26 @@
   },
   "active": "02a5ef75d2d5de88",
   "lastOpenFiles": [
+    "待整理筆記/撰寫此站的需要解決的難點.md",
+    "待整理筆記/勇敢去做那些不會讓你後悔的事，別怕犯錯.md",
+    "待整理筆記/我們所遇到的人事物，其實都是為了幫助我們形塑更完整的自己.md",
+    "待整理筆記/我的原則、價值觀、信念.md",
+    "文章管理/知識管理那回事.md",
+    "文章管理/知識管理那回事.canvas",
+    "文章管理/失調性 - 我與理論的關係，我如何重新看待理論.md",
+    "文章管理/失調性 - 我與社會的關係，我的自我價值與社會的價值的平衡之道.md",
+    "文章管理/失調性 - 我與世界的關係，沒有互聯網的資料我們就不存在嗎.md",
+    "文章管理/世界的大愛、給這個世界善.md",
+    "文章管理/人生必修課藍圖.canvas",
+    "文章管理/三、靈感庫/你專注地生活、嘗試，就沒有所謂浪費時間的經歷，.md",
+    "文章管理/「你是要選擇改變，面對『不安』？.md",
+    "文章管理/一、最近編輯/我理想的創作會長怎麼樣.md",
+    "content/活動紀錄/平凡人的創業之路，那些學分之外的養分.md",
+    "content/知識卡片/AI.md",
+    "content/圖床/440420549_3323754381250186_4101305845600747816_n.jpg",
     "AI筆記/AI/人工智能的歷史發展.md",
     "AI筆記/Philosophy/人生的心得.md",
     "content/20歲年輕父親寫給孩子的信/第一封 - 你怎麼來與你要去往何方.md",
-    "content/知識卡片/AI.md",
     "content/知識卡片",
     "content/卡片/Hello World 卡片.md",
     "content/卡片",
@@ -312,15 +330,6 @@
     "docs/plugins/Citations.md",
     "docs/features/Citations.md",
     "文章管理/關於學習與創作的這回事.md",
-    "obsidian部落格系統/使用的插件.md",
-    "content/網站靈感.md",
-    "content/高效與完人的必修技能與知識.md",
-    "content/12 個感興趣的主題.md",
-    "CODE_OF_CONDUCT.md",
-    "README.md",
-    "Excalidraw/Drawing 2025-01-19 16.17.36.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-15 00.10.36.excalidraw.md",
-    "content/index.md",
     "node_modules/@types/node/assert/strict.d.ts",
     "node_modules/@types/node/assert",
     "public/圖床/Pasted-image-20240608011440.jpg",
@@ -332,14 +341,7 @@
     "public/圖床/多米諾骨牌-Domino-effect--骨牌效應.jpg",
     "public/圖床/喝茶素材.jpg",
     "public/圖床/Pasted-image-20250115002037.png",
-    "public/圖床/Pasted-image-20240608010947.png",
-    "node_modules/mdast-util-phrasing/readme.md",
-    "node_modules/mdast-util-gfm-strikethrough/readme.md",
-    "node_modules/mdast-util-gfm-table/readme.md",
-    "node_modules/mdast-util-gfm-footnote/readme.md",
-    "文章管理/人生必修課藍圖.canvas",
     "文章管理/2024.5.18武敬凱商業講座.canvas",
-    "文章管理/知識管理那回事.canvas",
     "文章管理/成長必然痛苦.canvas",
     "未命名.canvas",
     "content/所有文章/未命名.canvas"
