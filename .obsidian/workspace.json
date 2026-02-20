@@ -99,14 +99,12 @@
             "id": "02a5ef75d2d5de88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "待整理筆記/VUR版本更新紀錄.md",
-                "mode": "source",
-                "source": false
+                "file": "content/圖床/440465926_953416439824247_6658970425670231210_n.jpg"
               },
-              "icon": "lucide-file",
-              "title": "VUR版本更新紀錄"
+              "icon": "lucide-image",
+              "title": "440465926_953416439824247_6658970425670231210_n"
             }
           }
         ],
@@ -293,6 +291,14 @@
   },
   "active": "02a5ef75d2d5de88",
   "lastOpenFiles": [
+    "content/圖床/440420549_3323754381250186_4101305845600747816_n.jpg",
+    "content/圖床/440425785_979453043160313_1475988674609709459_n.jpg",
+    "content/圖床/LLBDKjDG5DxVfxW36rtm0YuSQBlKbTjkCXAmCsaw4owkom0ccCPM9LLBfdLAfKsaKgOjPD9AtyNXdfEiV0LF4XQuE_dc-_dEoTtS4ueXzgiQ4nMXgVm-h4kx2vCmgOVOUYTNSnn4SDHacheZkAXnexBxHl3jYg6-5fMQpbWwAFekQTVa8iAVDdmFvUfG7WNnDC3f0kVNQrpP.png",
+    "content/圖床/雜亂線條2.jpg",
+    "content/圖床/多米諾骨牌-Domino effect  骨牌效應.jpg",
+    "content/圖床/喝茶素材.jpg",
+    "content/圖床/Snapinsta.app_video_441110848_966261434959294_8968580608567487267_n.mp4",
+    "待整理筆記/VUR版本更新紀錄.md",
     "待整理筆記/撰寫此站的需要解決的難點.md",
     "待整理筆記/勇敢去做那些不會讓你後悔的事，別怕犯錯.md",
     "待整理筆記/我們所遇到的人事物，其實都是為了幫助我們形塑更完整的自己.md",
@@ -309,7 +315,6 @@
     "文章管理/一、最近編輯/我理想的創作會長怎麼樣.md",
     "content/活動紀錄/平凡人的創業之路，那些學分之外的養分.md",
     "content/知識卡片/AI.md",
-    "content/圖床/440420549_3323754381250186_4101305845600747816_n.jpg",
     "AI筆記/AI/人工智能的歷史發展.md",
     "AI筆記/Philosophy/人生的心得.md",
     "content/20歲年輕父親寫給孩子的信/第一封 - 你怎麼來與你要去往何方.md",
@@ -328,19 +333,12 @@
     "quartz/i18n/locales/nb-NO.ts",
     "quartz/i18n/locales/fi-FI.ts",
     "docs/plugins/Citations.md",
-    "docs/features/Citations.md",
-    "文章管理/關於學習與創作的這回事.md",
     "node_modules/@types/node/assert/strict.d.ts",
-    "node_modules/@types/node/assert",
     "public/圖床/Pasted-image-20240608011440.jpg",
     "public/圖床/雜亂線條2.jpg",
     "public/圖床/雜亂線條1.jpg",
     "public/圖床/雜亂線條-腦1.jpg",
     "public/圖床/達克效應-成長之丘.jpg",
-    "public/圖床/雜亂線條-腦.avif",
-    "public/圖床/多米諾骨牌-Domino-effect--骨牌效應.jpg",
-    "public/圖床/喝茶素材.jpg",
-    "public/圖床/Pasted-image-20250115002037.png",
     "文章管理/2024.5.18武敬凱商業講座.canvas",
     "文章管理/成長必然痛苦.canvas",
     "未命名.canvas",
