@@ -99,16 +99,30 @@
             "id": "02a5ef75d2d5de88",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/圖床/440465926_953416439824247_6658970425670231210_n.jpg"
+                "file": "content/活動紀錄/2024.5.5 中興新村半程馬拉松.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "440465926_953416439824247_6658970425670231210_n"
+              "icon": "lucide-file",
+              "title": "2024.5.5 中興新村半程馬拉松"
+            }
+          },
+          {
+            "id": "40d1358b79e5028e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.11.7"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -289,8 +303,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "02a5ef75d2d5de88",
+  "active": "40d1358b79e5028e",
   "lastOpenFiles": [
+    "content/圖床/440465926_953416439824247_6658970425670231210_n.jpg",
     "content/圖床/440420549_3323754381250186_4101305845600747816_n.jpg",
     "content/圖床/440425785_979453043160313_1475988674609709459_n.jpg",
     "content/圖床/LLBDKjDG5DxVfxW36rtm0YuSQBlKbTjkCXAmCsaw4owkom0ccCPM9LLBfdLAfKsaKgOjPD9AtyNXdfEiV0LF4XQuE_dc-_dEoTtS4ueXzgiQ4nMXgVm-h4kx2vCmgOVOUYTNSnn4SDHacheZkAXnexBxHl3jYg6-5fMQpbWwAFekQTVa8iAVDdmFvUfG7WNnDC3f0kVNQrpP.png",
@@ -338,7 +353,6 @@
     "public/圖床/雜亂線條2.jpg",
     "public/圖床/雜亂線條1.jpg",
     "public/圖床/雜亂線條-腦1.jpg",
-    "public/圖床/達克效應-成長之丘.jpg",
     "文章管理/2024.5.18武敬凱商業講座.canvas",
     "文章管理/成長必然痛苦.canvas",
     "未命名.canvas",
