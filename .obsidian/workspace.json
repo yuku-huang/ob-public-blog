@@ -120,9 +120,21 @@
               "icon": "lucide-book-up",
               "title": "發行記錄 1.11.7"
             }
+          },
+          {
+            "id": "97447919fbb0e0bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.12.4"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -303,7 +315,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "40d1358b79e5028e",
+  "active": "97447919fbb0e0bd",
   "lastOpenFiles": [
     "content/圖床/440465926_953416439824247_6658970425670231210_n.jpg",
     "content/圖床/440420549_3323754381250186_4101305845600747816_n.jpg",
