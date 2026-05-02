@@ -327,8 +327,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b073cf29e9412eb4",
+  "active": "3c1dd578463e28ff",
   "lastOpenFiles": [
+    "手寫課程筆記_依Lesson整理.md",
+    "文章管理/未命名.md",
     "content/圖床/440465926_953416439824247_6658970425670231210_n.jpg",
     "content/圖床/440420549_3323754381250186_4101305845600747816_n.jpg",
     "content/圖床/440425785_979453043160313_1475988674609709459_n.jpg",
@@ -371,12 +373,10 @@
     "quartz/plugins/emitters/contentIndex.tsx",
     "quartz/i18n/locales/nb-NO.ts",
     "quartz/i18n/locales/fi-FI.ts",
-    "docs/plugins/Citations.md",
     "node_modules/@types/node/assert/strict.d.ts",
     "public/圖床/Pasted-image-20240608011440.jpg",
     "public/圖床/雜亂線條2.jpg",
     "public/圖床/雜亂線條1.jpg",
-    "public/圖床/雜亂線條-腦1.jpg",
     "文章管理/2024.5.18武敬凱商業講座.canvas",
     "文章管理/成長必然痛苦.canvas",
     "未命名.canvas",
