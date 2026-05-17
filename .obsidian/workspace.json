@@ -213,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.50152587890625
+    "width": 236.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "75e047bc5f7dcc09",
@@ -327,7 +328,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3c1dd578463e28ff",
+  "active": "b073cf29e9412eb4",
   "lastOpenFiles": [
     "手寫課程筆記_依Lesson整理.md",
     "文章管理/未命名.md",
